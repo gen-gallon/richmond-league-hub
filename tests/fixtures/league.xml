@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng" xml:lang="en-US">
+ <league>
+  <league_key>461.l.8049</league_key><league_id>8049</league_id><name>Bro Lovers 2026 Edition</name>
+  <url>https://football.fantasysports.yahoo.com/f1/8049</url><draft_status>postdraft</draft_status>
+  <num_teams>10</num_teams><scoring_type>head</scoring_type><current_week>12</current_week>
+  <start_week>1</start_week><end_week>17</end_week><is_finished>0</is_finished><season>2026</season>
+  <renew>449_31337</renew><renewed></renewed>
+ </league>
+</fantasy_content>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng">
+ <league><league_key>461.l.8049</league_key><transactions count="2">
+  <transaction><transaction_key>461.l.8049.tr.50</transaction_key><transaction_id>50</transaction_id><type>add/drop</type><status>successful</status><timestamp>1763000000</timestamp>
+   <players count="2">
+    <player><player_key>461.p.1</player_key><name><full>Add Guy</full></name><editorial_team_abbr>Det</editorial_team_abbr><display_position>WR</display_position>
+     <transaction_data><type>add</type><source_type>freeagents</source_type><destination_type>team</destination_type><destination_team_key>461.l.8049.t.1</destination_team_key><destination_team_name>Alan's Team</destination_team_name></transaction_data></player>
+    <player><player_key>461.p.2</player_key><name><full>Drop Guy</full></name><display_position>RB</display_position>
+     <transaction_data><type>drop</type><source_type>team</source_type><source_team_key>461.l.8049.t.1</source_team_key><destination_type>waivers</destination_type></transaction_data></player>
+   </players></transaction>
+  <transaction><transaction_key>461.l.8049.tr.51</transaction_key><transaction_id>51</transaction_id><type>trade</type><status>successful</status><timestamp>1763500000</timestamp>
+   <trader_team_key>461.l.8049.t.1</trader_team_key><tradee_team_key>461.l.8049.t.2</tradee_team_key>
+   <players count="1"><player><player_key>461.p.3</player_key><name><full>Trade Guy</full></name><display_position>TE</display_position>
+    <transaction_data><type>trade</type><source_type>team</source_type><source_team_key>461.l.8049.t.1</source_team_key><destination_type>team</destination_type><destination_team_key>461.l.8049.t.2</destination_team_key></transaction_data></player></players></transaction>
+ </transactions></league>
+</fantasy_content>

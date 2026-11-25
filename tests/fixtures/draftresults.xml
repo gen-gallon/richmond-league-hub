@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng">
+ <league><league_key>461.l.8049</league_key><draft_results count="2">
+  <draft_result><pick>2</pick><round>1</round><cost>52</cost><team_key>461.l.8049.t.2</team_key><player_key>461.p.33</player_key></draft_result>
+  <draft_result><pick>1</pick><round>1</round><cost>61</cost><team_key>461.l.8049.t.1</team_key><player_key>461.p.11</player_key></draft_result>
+ </draft_results></league>
+</fantasy_content>

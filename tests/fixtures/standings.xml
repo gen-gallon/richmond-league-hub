@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng">
+ <league><league_key>461.l.8049</league_key>
+  <standings><teams count="2">
+   <team>
+    <team_key>461.l.8049.t.2</team_key><team_id>2</team_id><name>Second Team</name>
+    <number_of_moves>12</number_of_moves><number_of_trades>1</number_of_trades>
+    <team_logos><team_logo><size>large</size><url>https://example.com/logo2.png</url></team_logo></team_logos>
+    <managers>
+     <manager><manager_id>3</manager_id><nickname>Co Guy</nickname><guid>COGUID</guid><is_comanager>1</is_comanager><email>co@example.com</email></manager>
+     <manager><manager_id>2</manager_id><nickname>Mike</nickname><guid>GUIDMIKE</guid><email>mike@example.com</email></manager>
+    </managers>
+    <team_points><coverage_type>season</coverage_type><season>2026</season><total>1100.4</total></team_points>
+    <team_standings><rank>2</rank><playoff_seed>2</playoff_seed>
+     <outcome_totals><wins>7</wins><losses>4</losses><ties>0</ties><percentage>.636</percentage></outcome_totals>
+     <streak><type>win</type><value>3</value></streak><points_for>1100.4</points_for><points_against>1001.2</points_against>
+    </team_standings>
+   </team>
+   <team>
+    <team_key>461.l.8049.t.1</team_key><team_id>1</team_id><name>Alan's Team</name>
+    <managers><manager><manager_id>1</manager_id><nickname>Alan</nickname><guid>GUIDALAN</guid><is_current_login>1</is_current_login><email>alan@example.com</email></manager></managers>
+    <team_standings><rank>1</rank><playoff_seed>1</playoff_seed>
+     <outcome_totals><wins>9</wins><losses>2</losses><ties>0</ties><percentage>.818</percentage></outcome_totals>
+     <streak><type>loss</type><value>1</value></streak><points_for>1250.75</points_for><points_against>980.5</points_against>
+    </team_standings>
+   </team>
+  </teams></standings>
+ </league>
+</fantasy_content>

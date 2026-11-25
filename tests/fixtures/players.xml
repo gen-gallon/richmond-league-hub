@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng"><league><players count="1">
+ <player><player_key>461.p.11</player_key><player_id>11</player_id><name><full>Josh Allen</full><first>Josh</first><last>Allen</last></name>
+ <editorial_team_abbr>Buf</editorial_team_abbr><display_position>QB</display_position></player>
+</players></league></fantasy_content>

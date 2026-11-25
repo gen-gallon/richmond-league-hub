@@ -1,0 +1,80 @@
+name: Refresh league data and deploy
+
+on:
+  schedule:
+    - cron: "13 */4 * * *"      # every 4 hours (UTC)
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Re-pull every season (ignore cached finished seasons)"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HAS_YAHOO_TOKEN: ${{ secrets.YAHOO_REFRESH_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -r requirements.txt pytest
+
+      - name: Test
+        run: python -m pytest -q
+
+      - name: Pull from Yahoo
+        if: env.HAS_YAHOO_TOKEN == 'true'
+        env:
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          YAHOO_CLIENT_SECRET: ${{ secrets.YAHOO_CLIENT_SECRET }}
+          YAHOO_REFRESH_TOKEN: ${{ secrets.YAHOO_REFRESH_TOKEN }}
+          YAHOO_REDIRECT_URI: ${{ secrets.YAHOO_REDIRECT_URI || 'oob' }}
+          YAHOO_LEAGUE_ID: ${{ vars.YAHOO_LEAGUE_ID || '8049' }}
+          YAHOO_LEAGUE_KEY: ${{ vars.YAHOO_LEAGUE_KEY }}
+        run: python -m ingest.build ${{ inputs.full && '--full' || '' }}
+
+      - name: Commit data changes
+        if: env.HAS_YAHOO_TOKEN == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data config/owners_seen.json
+          # Skip commits where only the "updated at" timestamp changed.
+          if git diff --cached --quiet -- . ':!site/data/index.json'; then
+            echo "No data changes to commit"
+          else
+            git commit -m "Refresh league data"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,5 @@
+{
+  "_help": "Optional. 'names' overrides how an owner is displayed; 'merge' folds an old owner id into a new one (someone switched Yahoo accounts). Owner ids are listed in config/owners_seen.json after each run.",
+  "names": {},
+  "merge": {}
+}

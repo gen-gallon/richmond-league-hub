@@ -170,7 +170,7 @@ conda-meta/
 .ropeproject
 
 # mkdocs/Zensical documentation
-/site
+# /site  (removed: this repo publishes site/ to GitHub Pages)
 
 # mypy
 .mypy_cache/

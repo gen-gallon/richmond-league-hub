@@ -1,0 +1,1492 @@
+{
+ "owners": [
+  {
+   "owner_id": "6a2b028818",
+   "name": "Goose",
+   "seasons": 20,
+   "wins": 172,
+   "losses": 105,
+   "ties": 0,
+   "points_for": 32027.06,
+   "points_against": 29858.0,
+   "titles": 4,
+   "runner_ups": 2,
+   "playoffs": 16,
+   "last_places": 0,
+   "playoff_wins": 17,
+   "playoff_losses": 15,
+   "title_years": [
+    2010,
+    2014,
+    2016,
+    2021
+   ],
+   "win_pct": 0.621,
+   "avg_finish": 4.05,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "fc991f86da",
+   "name": "Murph",
+   "seasons": 20,
+   "wins": 142,
+   "losses": 135,
+   "ties": 0,
+   "points_for": 30553.6,
+   "points_against": 29992.99,
+   "titles": 4,
+   "runner_ups": 0,
+   "playoffs": 12,
+   "last_places": 1,
+   "playoff_wins": 18,
+   "playoff_losses": 9,
+   "title_years": [
+    2007,
+    2008,
+    2012,
+    2019
+   ],
+   "win_pct": 0.513,
+   "avg_finish": 4.79,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "b4a423a700",
+   "name": "Pags",
+   "seasons": 20,
+   "wins": 142,
+   "losses": 135,
+   "ties": 0,
+   "points_for": 30992.77,
+   "points_against": 30771.2,
+   "titles": 2,
+   "runner_ups": 2,
+   "playoffs": 11,
+   "last_places": 1,
+   "playoff_wins": 14,
+   "playoff_losses": 13,
+   "title_years": [
+    2020,
+    2024
+   ],
+   "win_pct": 0.513,
+   "avg_finish": 5.21,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "81ca83ae35",
+   "name": "Dutch",
+   "seasons": 20,
+   "wins": 136,
+   "losses": 141,
+   "ties": 0,
+   "points_for": 30633.58,
+   "points_against": 31395.51,
+   "titles": 2,
+   "runner_ups": 2,
+   "playoffs": 8,
+   "last_places": 0,
+   "playoff_wins": 7,
+   "playoff_losses": 6,
+   "title_years": [
+    2009,
+    2023
+   ],
+   "win_pct": 0.491,
+   "avg_finish": 6.05,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "bd1f8efe3d",
+   "name": "Fitz",
+   "seasons": 20,
+   "wins": 130,
+   "losses": 147,
+   "ties": 0,
+   "points_for": 30912.16,
+   "points_against": 31257.8,
+   "titles": 2,
+   "runner_ups": 1,
+   "playoffs": 9,
+   "last_places": 4,
+   "playoff_wins": 6,
+   "playoff_losses": 7,
+   "title_years": [
+    2017,
+    2022
+   ],
+   "win_pct": 0.469,
+   "avg_finish": 6.47,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "8028cd8aaf",
+   "name": "Big Mike",
+   "seasons": 20,
+   "wins": 111,
+   "losses": 166,
+   "ties": 0,
+   "points_for": 29046.66,
+   "points_against": 31141.01,
+   "titles": 2,
+   "runner_ups": 1,
+   "playoffs": 9,
+   "last_places": 5,
+   "playoff_wins": 7,
+   "playoff_losses": 7,
+   "title_years": [
+    2011,
+    2015
+   ],
+   "win_pct": 0.401,
+   "avg_finish": 6.53,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "6ae986ea43",
+   "name": "Rocco",
+   "seasons": 20,
+   "wins": 160,
+   "losses": 117,
+   "ties": 0,
+   "points_for": 31632.27,
+   "points_against": 30563.02,
+   "titles": 1,
+   "runner_ups": 4,
+   "playoffs": 17,
+   "last_places": 1,
+   "playoff_wins": 23,
+   "playoff_losses": 21,
+   "title_years": [
+    2013
+   ],
+   "win_pct": 0.578,
+   "avg_finish": 3.79,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "8d020bfede",
+   "name": "Sully",
+   "seasons": 20,
+   "wins": 141,
+   "losses": 136,
+   "ties": 0,
+   "points_for": 30908.65,
+   "points_against": 30919.76,
+   "titles": 1,
+   "runner_ups": 3,
+   "playoffs": 14,
+   "last_places": 1,
+   "playoff_wins": 10,
+   "playoff_losses": 16,
+   "title_years": [
+    2018
+   ],
+   "win_pct": 0.509,
+   "avg_finish": 5.11,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "f10f7ccb16",
+   "name": "Tank",
+   "seasons": 20,
+   "wins": 134,
+   "losses": 143,
+   "ties": 0,
+   "points_for": 30553.51,
+   "points_against": 30557.6,
+   "titles": 1,
+   "runner_ups": 2,
+   "playoffs": 11,
+   "last_places": 2,
+   "playoff_wins": 8,
+   "playoff_losses": 11,
+   "title_years": [
+    2025
+   ],
+   "win_pct": 0.484,
+   "avg_finish": 6.05,
+   "best_finish": 1
+  },
+  {
+   "owner_id": "b3a505ab90",
+   "name": "Commish",
+   "seasons": 20,
+   "wins": 117,
+   "losses": 160,
+   "ties": 0,
+   "points_for": 29846.73,
+   "points_against": 30650.1,
+   "titles": 0,
+   "runner_ups": 2,
+   "playoffs": 7,
+   "last_places": 4,
+   "playoff_wins": 4,
+   "playoff_losses": 9,
+   "title_years": [],
+   "win_pct": 0.422,
+   "avg_finish": 6.95,
+   "best_finish": 2
+  }
+ ],
+ "champions": [
+  {
+   "season": 2025,
+   "owner_id": "f10f7ccb16",
+   "team": "Tank's Bandits",
+   "record": "10-4",
+   "runner_up_owner_id": "b3a505ab90",
+   "runner_up_team": "Commish's Bandits"
+  },
+  {
+   "season": 2024,
+   "owner_id": "b4a423a700",
+   "team": "Pags's Blitz",
+   "record": "7-7",
+   "runner_up_owner_id": "8028cd8aaf",
+   "runner_up_team": "Big Mike's Mayhem"
+  },
+  {
+   "season": 2023,
+   "owner_id": "81ca83ae35",
+   "team": "Dutch's Sharks",
+   "record": "10-4",
+   "runner_up_owner_id": "f10f7ccb16",
+   "runner_up_team": "Tank's Blitz"
+  },
+  {
+   "season": 2022,
+   "owner_id": "bd1f8efe3d",
+   "team": "Fitz's Mayhem",
+   "record": "10-4",
+   "runner_up_owner_id": "6ae986ea43",
+   "runner_up_team": "Rocco's Gridiron"
+  },
+  {
+   "season": 2021,
+   "owner_id": "6a2b028818",
+   "team": "Goose's Bandits",
+   "record": "11-3",
+   "runner_up_owner_id": "8d020bfede",
+   "runner_up_team": "Sully's Sharks"
+  },
+  {
+   "season": 2020,
+   "owner_id": "b4a423a700",
+   "team": "Pags's Blitz",
+   "record": "5-9",
+   "runner_up_owner_id": "6ae986ea43",
+   "runner_up_team": "Rocco's Mayhem"
+  },
+  {
+   "season": 2019,
+   "owner_id": "fc991f86da",
+   "team": "Murph's Sharks",
+   "record": "8-6",
+   "runner_up_owner_id": "8d020bfede",
+   "runner_up_team": "Sully's Ballers"
+  },
+  {
+   "season": 2018,
+   "owner_id": "8d020bfede",
+   "team": "Sully's Dynasty",
+   "record": "6-8",
+   "runner_up_owner_id": "6a2b028818",
+   "runner_up_team": "Goose's Sharks"
+  },
+  {
+   "season": 2017,
+   "owner_id": "bd1f8efe3d",
+   "team": "Fitz's Blitz",
+   "record": "8-6",
+   "runner_up_owner_id": "b4a423a700",
+   "runner_up_team": "Pags's Bandits"
+  },
+  {
+   "season": 2016,
+   "owner_id": "6a2b028818",
+   "team": "Goose's Ballers",
+   "record": "9-5",
+   "runner_up_owner_id": "bd1f8efe3d",
+   "runner_up_team": "Fitz's Kings"
+  },
+  {
+   "season": 2015,
+   "owner_id": "8028cd8aaf",
+   "team": "Big Mike's Sharks",
+   "record": "9-5",
+   "runner_up_owner_id": "f10f7ccb16",
+   "runner_up_team": "Tank's Hogs"
+  },
+  {
+   "season": 2014,
+   "owner_id": "6a2b028818",
+   "team": "Goose's Ballers",
+   "record": "9-5",
+   "runner_up_owner_id": "6ae986ea43",
+   "runner_up_team": "Rocco's Blitz"
+  },
+  {
+   "season": 2013,
+   "owner_id": "6ae986ea43",
+   "team": "Rocco's Sharks",
+   "record": "8-6",
+   "runner_up_owner_id": "6a2b028818",
+   "runner_up_team": "Goose's Thunder"
+  },
+  {
+   "season": 2012,
+   "owner_id": "fc991f86da",
+   "team": "Murph's Gridiron",
+   "record": "10-4",
+   "runner_up_owner_id": "81ca83ae35",
+   "runner_up_team": "Dutch's Bandits"
+  },
+  {
+   "season": 2011,
+   "owner_id": "8028cd8aaf",
+   "team": "Big Mike's Bandits",
+   "record": "7-7",
+   "runner_up_owner_id": "b3a505ab90",
+   "runner_up_team": "Commish's Hogs"
+  },
+  {
+   "season": 2010,
+   "owner_id": "6a2b028818",
+   "team": "Goose's Hogs",
+   "record": "9-5",
+   "runner_up_owner_id": "8d020bfede",
+   "runner_up_team": "Sully's Bandits"
+  },
+  {
+   "season": 2009,
+   "owner_id": "81ca83ae35",
+   "team": "Dutch's Kings",
+   "record": "9-5",
+   "runner_up_owner_id": "6ae986ea43",
+   "runner_up_team": "Rocco's Kings"
+  },
+  {
+   "season": 2008,
+   "owner_id": "fc991f86da",
+   "team": "Murph's Dynasty",
+   "record": "10-4",
+   "runner_up_owner_id": "81ca83ae35",
+   "runner_up_team": "Dutch's Kings"
+  },
+  {
+   "season": 2007,
+   "owner_id": "fc991f86da",
+   "team": "Murph's Sharks",
+   "record": "7-7",
+   "runner_up_owner_id": "b4a423a700",
+   "runner_up_team": "Pags's Kings"
+  }
+ ],
+ "h2h": {
+  "fc991f86da": {
+   "8d020bfede": {
+    "w": 19,
+    "l": 22,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 12,
+    "l": 12,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 26,
+    "l": 15,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 14,
+    "l": 18,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 17,
+    "l": 21,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 18,
+    "l": 16,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 12,
+    "l": 13,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 23,
+    "l": 20,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 19,
+    "l": 7,
+    "t": 0
+   }
+  },
+  "8d020bfede": {
+   "fc991f86da": {
+    "w": 22,
+    "l": 19,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 16,
+    "l": 17,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 12,
+    "l": 11,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 17,
+    "l": 16,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 17,
+    "l": 17,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 14,
+    "l": 12,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 14,
+    "l": 17,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 22,
+    "l": 17,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 17,
+    "l": 26,
+    "t": 0
+   }
+  },
+  "6ae986ea43": {
+   "8028cd8aaf": {
+    "w": 25,
+    "l": 9,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 21,
+    "l": 14,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 18,
+    "l": 15,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 16,
+    "l": 18,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 18,
+    "l": 19,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 17,
+    "l": 17,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 17,
+    "l": 22,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 23,
+    "l": 11,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 28,
+    "l": 13,
+    "t": 0
+   }
+  },
+  "8028cd8aaf": {
+   "6ae986ea43": {
+    "w": 9,
+    "l": 25,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 15,
+    "l": 26,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 13,
+    "l": 21,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 13,
+    "l": 25,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 17,
+    "l": 20,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 17,
+    "l": 17,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 16,
+    "l": 9,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 11,
+    "l": 12,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 7,
+    "l": 18,
+    "t": 0
+   }
+  },
+  "6a2b028818": {
+   "f10f7ccb16": {
+    "w": 20,
+    "l": 10,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 26,
+    "l": 11,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 25,
+    "l": 13,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 28,
+    "l": 16,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 19,
+    "l": 18,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 19,
+    "l": 9,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 13,
+    "l": 12,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 26,
+    "l": 17,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 13,
+    "l": 14,
+    "t": 0
+   }
+  },
+  "f10f7ccb16": {
+   "6a2b028818": {
+    "w": 10,
+    "l": 20,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 16,
+    "l": 17,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 21,
+    "l": 13,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 15,
+    "l": 18,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 14,
+    "l": 17,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 12,
+    "l": 14,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 21,
+    "l": 21,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 26,
+    "l": 15,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 7,
+    "l": 19,
+    "t": 0
+   }
+  },
+  "b4a423a700": {
+   "bd1f8efe3d": {
+    "w": 19,
+    "l": 21,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 14,
+    "l": 21,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 15,
+    "l": 9,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 20,
+    "l": 17,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 17,
+    "l": 14,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 20,
+    "l": 23,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 21,
+    "l": 21,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 14,
+    "l": 13,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 16,
+    "l": 9,
+    "t": 0
+   }
+  },
+  "bd1f8efe3d": {
+   "b4a423a700": {
+    "w": 21,
+    "l": 19,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 17,
+    "l": 16,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 18,
+    "l": 14,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 16,
+    "l": 17,
+    "t": 0
+   },
+   "81ca83ae35": {
+    "w": 14,
+    "l": 12,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 9,
+    "l": 19,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 12,
+    "l": 11,
+    "t": 0
+   },
+   "b3a505ab90": {
+    "w": 16,
+    "l": 18,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 13,
+    "l": 28,
+    "t": 0
+   }
+  },
+  "81ca83ae35": {
+   "b3a505ab90": {
+    "w": 27,
+    "l": 14,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 17,
+    "l": 16,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 11,
+    "l": 26,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 21,
+    "l": 17,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 17,
+    "l": 14,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 12,
+    "l": 14,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 18,
+    "l": 7,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 11,
+    "l": 23,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 9,
+    "l": 16,
+    "t": 0
+   }
+  },
+  "b3a505ab90": {
+   "81ca83ae35": {
+    "w": 14,
+    "l": 27,
+    "t": 0
+   },
+   "fc991f86da": {
+    "w": 12,
+    "l": 12,
+    "t": 0
+   },
+   "8d020bfede": {
+    "w": 11,
+    "l": 12,
+    "t": 0
+   },
+   "b4a423a700": {
+    "w": 9,
+    "l": 15,
+    "t": 0
+   },
+   "6a2b028818": {
+    "w": 16,
+    "l": 28,
+    "t": 0
+   },
+   "8028cd8aaf": {
+    "w": 9,
+    "l": 16,
+    "t": 0
+   },
+   "6ae986ea43": {
+    "w": 17,
+    "l": 17,
+    "t": 0
+   },
+   "bd1f8efe3d": {
+    "w": 18,
+    "l": 16,
+    "t": 0
+   },
+   "f10f7ccb16": {
+    "w": 15,
+    "l": 26,
+    "t": 0
+   }
+  }
+ },
+ "records": {
+  "high_scores": [
+   {
+    "season": 2007,
+    "week": 9,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Dynasty",
+    "points": 191.14,
+    "playoffs": false
+   },
+   {
+    "season": 2016,
+    "week": 7,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Ballers",
+    "points": 190.9,
+    "playoffs": false
+   },
+   {
+    "season": 2022,
+    "week": 5,
+    "owner_id": "6ae986ea43",
+    "team": "Rocco's Gridiron",
+    "points": 189.37,
+    "playoffs": false
+   },
+   {
+    "season": 2015,
+    "week": 13,
+    "owner_id": "8d020bfede",
+    "team": "Sully's Sharks",
+    "points": 188.5,
+    "playoffs": false
+   },
+   {
+    "season": 2018,
+    "week": 8,
+    "owner_id": "b3a505ab90",
+    "team": "Commish's Gridiron",
+    "points": 185.21,
+    "playoffs": false
+   },
+   {
+    "season": 2011,
+    "week": 5,
+    "owner_id": "b3a505ab90",
+    "team": "Commish's Hogs",
+    "points": 181.1,
+    "playoffs": false
+   },
+   {
+    "season": 2013,
+    "week": 2,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Thunder",
+    "points": 180.31,
+    "playoffs": false
+   },
+   {
+    "season": 2012,
+    "week": 2,
+    "owner_id": "b4a423a700",
+    "team": "Pags's Blitz",
+    "points": 178.3,
+    "playoffs": false
+   },
+   {
+    "season": 2019,
+    "week": 12,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Sharks",
+    "points": 178.23,
+    "playoffs": false
+   },
+   {
+    "season": 2024,
+    "week": 14,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Ballers",
+    "points": 175.57,
+    "playoffs": false
+   }
+  ],
+  "low_scores": [
+   {
+    "season": 2020,
+    "week": 13,
+    "owner_id": "bd1f8efe3d",
+    "team": "Fitz's Ballers",
+    "points": 20.27,
+    "playoffs": false
+   },
+   {
+    "season": 2012,
+    "week": 6,
+    "owner_id": "bd1f8efe3d",
+    "team": "Fitz's Gridiron",
+    "points": 34.02,
+    "playoffs": false
+   },
+   {
+    "season": 2020,
+    "week": 11,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Mayhem",
+    "points": 42.19,
+    "playoffs": false
+   },
+   {
+    "season": 2007,
+    "week": 3,
+    "owner_id": "81ca83ae35",
+    "team": "Dutch's Blitz",
+    "points": 43.58,
+    "playoffs": false
+   },
+   {
+    "season": 2026,
+    "week": 2,
+    "owner_id": "f10f7ccb16",
+    "team": "Tank's Bandits",
+    "points": 44.9,
+    "playoffs": false
+   },
+   {
+    "season": 2015,
+    "week": 7,
+    "owner_id": "bd1f8efe3d",
+    "team": "Fitz's Hogs",
+    "points": 45.33,
+    "playoffs": false
+   },
+   {
+    "season": 2026,
+    "week": 8,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Gridiron",
+    "points": 48.14,
+    "playoffs": false
+   },
+   {
+    "season": 2016,
+    "week": 15,
+    "owner_id": "81ca83ae35",
+    "team": "Dutch's Hogs",
+    "points": 48.86,
+    "playoffs": true
+   },
+   {
+    "season": 2010,
+    "week": 14,
+    "owner_id": "f10f7ccb16",
+    "team": "Tank's Kings",
+    "points": 49.1,
+    "playoffs": false
+   },
+   {
+    "season": 2026,
+    "week": 4,
+    "owner_id": "b3a505ab90",
+    "team": "Commish's Ballers",
+    "points": 50.31,
+    "playoffs": false
+   }
+  ],
+  "blowouts": [
+   {
+    "season": 2020,
+    "week": 13,
+    "playoffs": false,
+    "winner_owner_id": "fc991f86da",
+    "winner_team": "Murph's Mayhem",
+    "loser_owner_id": "bd1f8efe3d",
+    "loser_team": "Fitz's Ballers",
+    "winner_points": 150.47,
+    "loser_points": 20.27,
+    "margin": 130.2
+   },
+   {
+    "season": 2016,
+    "week": 7,
+    "playoffs": false,
+    "winner_owner_id": "6a2b028818",
+    "winner_team": "Goose's Ballers",
+    "loser_owner_id": "8028cd8aaf",
+    "loser_team": "Big Mike's Dynasty",
+    "winner_points": 190.9,
+    "loser_points": 69.28,
+    "margin": 121.62
+   },
+   {
+    "season": 2011,
+    "week": 5,
+    "playoffs": false,
+    "winner_owner_id": "b3a505ab90",
+    "winner_team": "Commish's Hogs",
+    "loser_owner_id": "8d020bfede",
+    "loser_team": "Sully's Ballers",
+    "winner_points": 181.1,
+    "loser_points": 65.4,
+    "margin": 115.7
+   },
+   {
+    "season": 2015,
+    "week": 5,
+    "playoffs": false,
+    "winner_owner_id": "81ca83ae35",
+    "winner_team": "Dutch's Thunder",
+    "loser_owner_id": "8d020bfede",
+    "loser_team": "Sully's Sharks",
+    "winner_points": 165.51,
+    "loser_points": 56.57,
+    "margin": 108.94
+   },
+   {
+    "season": 2012,
+    "week": 14,
+    "playoffs": false,
+    "winner_owner_id": "f10f7ccb16",
+    "winner_team": "Tank's Mayhem",
+    "loser_owner_id": "8028cd8aaf",
+    "loser_team": "Big Mike's Kings",
+    "winner_points": 164.94,
+    "loser_points": 71.31,
+    "margin": 93.63
+   },
+   {
+    "season": 2024,
+    "week": 14,
+    "playoffs": false,
+    "winner_owner_id": "6a2b028818",
+    "winner_team": "Goose's Ballers",
+    "loser_owner_id": "81ca83ae35",
+    "loser_team": "Dutch's Thunder",
+    "winner_points": 175.57,
+    "loser_points": 82.11,
+    "margin": 93.46
+   },
+   {
+    "season": 2010,
+    "week": 8,
+    "playoffs": false,
+    "winner_owner_id": "f10f7ccb16",
+    "winner_team": "Tank's Kings",
+    "loser_owner_id": "b3a505ab90",
+    "loser_team": "Commish's Bandits",
+    "winner_points": 144.25,
+    "loser_points": 51.46,
+    "margin": 92.79
+   },
+   {
+    "season": 2024,
+    "week": 11,
+    "playoffs": false,
+    "winner_owner_id": "fc991f86da",
+    "winner_team": "Murph's Bandits",
+    "loser_owner_id": "6a2b028818",
+    "loser_team": "Goose's Ballers",
+    "winner_points": 150.59,
+    "loser_points": 58.45,
+    "margin": 92.14
+   },
+   {
+    "season": 2018,
+    "week": 8,
+    "playoffs": false,
+    "winner_owner_id": "b3a505ab90",
+    "winner_team": "Commish's Gridiron",
+    "loser_owner_id": "8d020bfede",
+    "loser_team": "Sully's Dynasty",
+    "winner_points": 185.21,
+    "loser_points": 94.29,
+    "margin": 90.92
+   },
+   {
+    "season": 2022,
+    "week": 12,
+    "playoffs": false,
+    "winner_owner_id": "bd1f8efe3d",
+    "winner_team": "Fitz's Mayhem",
+    "loser_owner_id": "8d020bfede",
+    "loser_team": "Sully's Dynasty",
+    "winner_points": 162.84,
+    "loser_points": 74.23,
+    "margin": 88.61
+   }
+  ],
+  "closest": [
+   {
+    "season": 2024,
+    "week": 14,
+    "playoffs": false,
+    "winner_owner_id": "b4a423a700",
+    "winner_team": "Pags's Blitz",
+    "loser_owner_id": "bd1f8efe3d",
+    "loser_team": "Fitz's Gridiron",
+    "winner_points": 115.0,
+    "loser_points": 114.98,
+    "margin": 0.02
+   },
+   {
+    "season": 2022,
+    "week": 3,
+    "playoffs": false,
+    "winner_owner_id": "8028cd8aaf",
+    "winner_team": "Big Mike's Hogs",
+    "loser_owner_id": "b3a505ab90",
+    "loser_team": "Commish's Mayhem",
+    "winner_points": 129.82,
+    "loser_points": 129.79,
+    "margin": 0.03
+   },
+   {
+    "season": 2021,
+    "week": 13,
+    "playoffs": false,
+    "winner_owner_id": "6ae986ea43",
+    "winner_team": "Rocco's Gridiron",
+    "loser_owner_id": "b3a505ab90",
+    "loser_team": "Commish's Gridiron",
+    "winner_points": 105.03,
+    "loser_points": 104.99,
+    "margin": 0.04
+   },
+   {
+    "season": 2026,
+    "week": 7,
+    "playoffs": false,
+    "winner_owner_id": "b3a505ab90",
+    "winner_team": "Commish's Ballers",
+    "loser_owner_id": "f10f7ccb16",
+    "loser_team": "Tank's Bandits",
+    "winner_points": 104.91,
+    "loser_points": 104.85,
+    "margin": 0.06
+   },
+   {
+    "season": 2007,
+    "week": 4,
+    "playoffs": false,
+    "winner_owner_id": "b4a423a700",
+    "winner_team": "Pags's Kings",
+    "loser_owner_id": "6ae986ea43",
+    "loser_team": "Rocco's Bandits",
+    "winner_points": 124.22,
+    "loser_points": 124.15,
+    "margin": 0.07
+   },
+   {
+    "season": 2018,
+    "week": 4,
+    "playoffs": false,
+    "winner_owner_id": "8d020bfede",
+    "winner_team": "Sully's Dynasty",
+    "loser_owner_id": "fc991f86da",
+    "loser_team": "Murph's Thunder",
+    "winner_points": 113.18,
+    "loser_points": 113.08,
+    "margin": 0.1
+   },
+   {
+    "season": 2014,
+    "week": 15,
+    "playoffs": true,
+    "winner_owner_id": "6a2b028818",
+    "winner_team": "Goose's Ballers",
+    "loser_owner_id": "8028cd8aaf",
+    "loser_team": "Big Mike's Dynasty",
+    "winner_points": 92.79,
+    "loser_points": 92.66,
+    "margin": 0.13
+   },
+   {
+    "season": 2015,
+    "week": 4,
+    "playoffs": false,
+    "winner_owner_id": "8028cd8aaf",
+    "winner_team": "Big Mike's Sharks",
+    "loser_owner_id": "fc991f86da",
+    "loser_team": "Murph's Hogs",
+    "winner_points": 109.03,
+    "loser_points": 108.9,
+    "margin": 0.13
+   },
+   {
+    "season": 2017,
+    "week": 14,
+    "playoffs": false,
+    "winner_owner_id": "b3a505ab90",
+    "winner_team": "Commish's Mayhem",
+    "loser_owner_id": "8028cd8aaf",
+    "loser_team": "Big Mike's Dynasty",
+    "winner_points": 103.36,
+    "loser_points": 103.16,
+    "margin": 0.2
+   },
+   {
+    "season": 2008,
+    "week": 14,
+    "playoffs": false,
+    "winner_owner_id": "8028cd8aaf",
+    "winner_team": "Big Mike's Kings",
+    "loser_owner_id": "b4a423a700",
+    "loser_team": "Pags's Dynasty",
+    "winner_points": 86.74,
+    "loser_points": 86.53,
+    "margin": 0.21
+   }
+  ],
+  "best_seasons": [
+   {
+    "season": 2020,
+    "owner_id": "6ae986ea43",
+    "team": "Rocco's Mayhem",
+    "wins": 13,
+    "losses": 1,
+    "ties": 0,
+    "points_for": 1857.36,
+    "rank": 2,
+    "ppg": 132.67
+   },
+   {
+    "season": 2014,
+    "owner_id": "b4a423a700",
+    "team": "Pags's Ballers",
+    "wins": 13,
+    "losses": 1,
+    "ties": 0,
+    "points_for": 1766.36,
+    "rank": 3,
+    "ppg": 126.17
+   },
+   {
+    "season": 2013,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Thunder",
+    "wins": 13,
+    "losses": 1,
+    "ties": 0,
+    "points_for": 1722.05,
+    "rank": 2,
+    "ppg": 123.0
+   },
+   {
+    "season": 2012,
+    "owner_id": "81ca83ae35",
+    "team": "Dutch's Bandits",
+    "wins": 13,
+    "losses": 1,
+    "ties": 0,
+    "points_for": 1678.27,
+    "rank": 2,
+    "ppg": 119.88
+   },
+   {
+    "season": 2018,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Sharks",
+    "wins": 12,
+    "losses": 2,
+    "ties": 0,
+    "points_for": 1717.78,
+    "rank": 2,
+    "ppg": 122.7
+   },
+   {
+    "season": 2010,
+    "owner_id": "8d020bfede",
+    "team": "Sully's Bandits",
+    "wins": 12,
+    "losses": 2,
+    "ties": 0,
+    "points_for": 1580.39,
+    "rank": 2,
+    "ppg": 112.89
+   },
+   {
+    "season": 2015,
+    "owner_id": "f10f7ccb16",
+    "team": "Tank's Hogs",
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1823.39,
+    "rank": 2,
+    "ppg": 130.24
+   },
+   {
+    "season": 2019,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Sharks",
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1755.46,
+    "rank": 3,
+    "ppg": 125.39
+   },
+   {
+    "season": 2025,
+    "owner_id": "b4a423a700",
+    "team": "Pags's Sharks",
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1678.31,
+    "rank": 3,
+    "ppg": 119.88
+   },
+   {
+    "season": 2007,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Dynasty",
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1646.48,
+    "rank": 4,
+    "ppg": 117.61
+   }
+  ],
+  "most_points_season": [
+   {
+    "season": 2021,
+    "owner_id": "fc991f86da",
+    "team": "Murph's Blitz",
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1874.87,
+    "rank": 3,
+    "ppg": 133.92
+   },
+   {
+    "season": 2020,
+    "owner_id": "6ae986ea43",
+    "team": "Rocco's Mayhem",
+    "wins": 13,
+    "losses": 1,
+    "ties": 0,
+    "points_for": 1857.36,
+    "rank": 2,
+    "ppg": 132.67
+   },
+   {
+    "season": 2022,
+    "owner_id": "6ae986ea43",
+    "team": "Rocco's Gridiron",
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1826.71,
+    "rank": 2,
+    "ppg": 130.48
+   },
+   {
+    "season": 2015,
+    "owner_id": "f10f7ccb16",
+    "team": "Tank's Hogs",
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1823.39,
+    "rank": 2,
+    "ppg": 130.24
+   },
+   {
+    "season": 2022,
+    "owner_id": "6a2b028818",
+    "team": "Goose's Mayhem",
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1789.18,
+    "rank": 6,
+    "ppg": 127.8
+   },
+   {
+    "season": 2017,
+    "owner_id": "8d020bfede",
+    "team": "Sully's Dynasty",
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1788.27,
+    "rank": 3,
+    "ppg": 127.73
+   },
+   {
+    "season": 2025,
+    "owner_id": "f10f7ccb16",
+    "team": "Tank's Bandits",
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1787.68,
+    "rank": 1,
+    "ppg": 127.69
+   },
+   {
+    "season": 2012,
+    "owner_id": "b4a423a700",
+    "team": "Pags's Blitz",
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1780.08,
+    "rank": 5,
+    "ppg": 127.15
+   },
+   {
+    "season": 2008,
+    "owner_id": "81ca83ae35",
+    "team": "Dutch's Kings",
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1779.83,
+    "rank": 2,
+    "ppg": 127.13
+   },
+   {
+    "season": 2022,
+    "owner_id": "bd1f8efe3d",
+    "team": "Fitz's Mayhem",
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1779.54,
+    "rank": 1,
+    "ppg": 127.11
+   }
+  ]
+ }
+}

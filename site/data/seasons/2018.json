@@ -1,0 +1,2019 @@
+{
+ "league_key": "999.l.2018",
+ "league_id": "2018",
+ "name": "Bro Lovers (DEMO DATA)",
+ "season": 2018,
+ "num_teams": 10,
+ "start_week": 1,
+ "end_week": 17,
+ "current_week": 17,
+ "is_finished": true,
+ "draft_status": "postdraft",
+ "scoring_type": "head",
+ "renew": "999.l.2017",
+ "renewed": null,
+ "settings": {
+  "num_playoff_teams": 6,
+  "playoff_start_week": 15,
+  "uses_faab": true,
+  "is_auction_draft": true,
+  "draft_type": "live"
+ },
+ "standings": [
+  {
+   "team_key": "999.l.2018.t.4",
+   "team_id": 4,
+   "name": "Sully's Dynasty",
+   "owner_id": "8d020bfede",
+   "owner_name": "Sully",
+   "logo": null,
+   "moves": 38,
+   "trades": 4,
+   "wins": 6,
+   "losses": 8,
+   "ties": 0,
+   "points_for": 1660.96,
+   "points_against": 1844.45,
+   "rank": 1,
+   "playoff_seed": 6,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.10",
+   "team_id": 10,
+   "name": "Goose's Sharks",
+   "owner_id": "6a2b028818",
+   "owner_name": "Goose",
+   "logo": null,
+   "moves": 27,
+   "trades": 4,
+   "wins": 12,
+   "losses": 2,
+   "ties": 0,
+   "points_for": 1717.78,
+   "points_against": 1508.09,
+   "rank": 2,
+   "playoff_seed": 1,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.9",
+   "team_id": 9,
+   "name": "Murph's Thunder",
+   "owner_id": "fc991f86da",
+   "owner_name": "Murph",
+   "logo": null,
+   "moves": 40,
+   "trades": 1,
+   "wins": 9,
+   "losses": 5,
+   "ties": 0,
+   "points_for": 1746.1,
+   "points_against": 1565.01,
+   "rank": 3,
+   "playoff_seed": 2,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.7",
+   "team_id": 7,
+   "name": "Rocco's Blitz",
+   "owner_id": "6ae986ea43",
+   "owner_name": "Rocco",
+   "logo": null,
+   "moves": 6,
+   "trades": 3,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1668.79,
+   "points_against": 1621.87,
+   "rank": 4,
+   "playoff_seed": 4,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.1",
+   "team_id": 1,
+   "name": "Commish's Gridiron",
+   "owner_id": "b3a505ab90",
+   "owner_name": "Commish",
+   "logo": null,
+   "moves": 39,
+   "trades": 0,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1693.97,
+   "points_against": 1548.21,
+   "rank": 5,
+   "playoff_seed": 3,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.3",
+   "team_id": 3,
+   "name": "Dutch's Kings",
+   "owner_id": "81ca83ae35",
+   "owner_name": "Dutch",
+   "logo": null,
+   "moves": 8,
+   "trades": 2,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1618.18,
+   "points_against": 1645.32,
+   "rank": 6,
+   "playoff_seed": 5,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.2",
+   "team_id": 2,
+   "name": "Big Mike's Thunder",
+   "owner_id": "8028cd8aaf",
+   "owner_name": "Big Mike",
+   "logo": null,
+   "moves": 6,
+   "trades": 1,
+   "wins": 6,
+   "losses": 8,
+   "ties": 0,
+   "points_for": 1472.76,
+   "points_against": 1546.95,
+   "rank": 7,
+   "playoff_seed": 7,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.6",
+   "team_id": 6,
+   "name": "Pags's Kings",
+   "owner_id": "b4a423a700",
+   "owner_name": "Pags",
+   "logo": null,
+   "moves": 29,
+   "trades": 2,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1511.59,
+   "points_against": 1525.54,
+   "rank": 8,
+   "playoff_seed": 8,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.5",
+   "team_id": 5,
+   "name": "Tank's Thunder",
+   "owner_id": "f10f7ccb16",
+   "owner_name": "Tank",
+   "logo": null,
+   "moves": 8,
+   "trades": 3,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1359.09,
+   "points_against": 1537.7,
+   "rank": 9,
+   "playoff_seed": 9,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2018.t.8",
+   "team_id": 8,
+   "name": "Fitz's Kings",
+   "owner_id": "bd1f8efe3d",
+   "owner_name": "Fitz",
+   "logo": null,
+   "moves": 21,
+   "trades": 1,
+   "wins": 4,
+   "losses": 10,
+   "ties": 0,
+   "points_for": 1652.03,
+   "points_against": 1758.11,
+   "rank": 10,
+   "playoff_seed": 10,
+   "streak": null
+  }
+ ],
+ "matchups": [
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 69.08,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 125.35,
+     "projected": 118.73
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 87.89,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 134.49,
+     "projected": 112.63
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 121.7,
+     "projected": 103.8
+    },
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 114.9,
+     "projected": 111.69
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 94.05,
+     "projected": 121.63
+    },
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 105.57,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 100.5,
+     "projected": 102.33
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 126.14,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 115.62,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 165.74,
+     "projected": 111.69
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 127.31,
+     "projected": 121.63
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 76.81,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 122.22,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 97.94,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 89.26,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 102.55,
+     "projected": 112.63
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 121.16,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 84.87,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 70.04,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 118.45,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 109.09,
+     "projected": 112.63
+    },
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 110.26,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 134.79,
+     "projected": 113.15
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 105.65,
+     "projected": 124.13
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 105.12,
+     "projected": 111.69
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 124.12,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 126.5,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 122.34,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 103.35,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 123.88,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 113.08,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 113.18,
+     "projected": 124.13
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 137.78,
+     "projected": 113.15
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 83.04,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 120.24,
+     "projected": 111.69
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 124.51,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 113.99,
+     "projected": 103.8
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 119.65,
+     "projected": 112.63
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 158.95,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 143.79,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 131.12,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 90.57,
+     "projected": 111.69
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 124.78,
+     "projected": 103.8
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 126.99,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 149.38,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 123.52,
+     "projected": 112.63
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 154.7,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 76.2,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 138.03,
+     "projected": 111.69
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 103.9,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 103.76,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 90.35,
+     "projected": 124.13
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 117.76,
+     "projected": 103.8
+    },
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 122.07,
+     "projected": 118.73
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 118.21,
+     "projected": 112.63
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 87.04,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 77.54,
+     "projected": 102.33
+    },
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 117.2,
+     "projected": 105.13
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 51.82,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 100.24,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 121.14,
+     "projected": 121.63
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 141.11,
+     "projected": 124.13
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 161.95,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 124.65,
+     "projected": 111.69
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 121.94,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 161.89,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 109.78,
+     "projected": 112.63
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 91.85,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 117.09,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 116.43,
+     "projected": 118.73
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 185.21,
+     "projected": 121.63
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 94.29,
+     "projected": 124.13
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 91.98,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 104.66,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 95.66,
+     "projected": 113.15
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 133.55,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 147.75,
+     "projected": 112.63
+    },
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 122.65,
+     "projected": 111.69
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 120.62,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 88.77,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 97.38,
+     "projected": 111.69
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 107.29,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 83.66,
+     "projected": 121.63
+    },
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 103.22,
+     "projected": 105.13
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 131.36,
+     "projected": 112.63
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 137.32,
+     "projected": 124.13
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 134.17,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 132.0,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 130.72,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 152.33,
+     "projected": 111.69
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 108.95,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 69.82,
+     "projected": 112.63
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 80.82,
+     "projected": 102.33
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 105.27,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 81.44,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 92.53,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 82.35,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 102.53,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 132.89,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 120.05,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 97.52,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 145.29,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 117.26,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 138.4,
+     "projected": 118.73
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 117.58,
+     "projected": 112.63
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 131.29,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 121.25,
+     "projected": 111.69
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 118.78,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 130.91,
+     "projected": 112.63
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 125.52,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 95.21,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 140.3,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 98.64,
+     "projected": 121.63
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 85.64,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 139.65,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 109.86,
+     "projected": 111.69
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 106.7,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 115.42,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 122.05,
+     "projected": 118.73
+    },
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 122.76,
+     "projected": 105.13
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 144.15,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 116.02,
+     "projected": 112.63
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 99.44,
+     "projected": 103.8
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 105.48,
+     "projected": 113.15
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 104.36,
+     "projected": 102.33
+    },
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 125.45,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 74.19,
+     "projected": 111.69
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 102.9,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 122.32,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 138.06,
+     "projected": 112.63
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.5",
+     "points": 114.44,
+     "projected": 105.13
+    },
+    {
+     "team_key": "999.l.2018.t.2",
+     "points": 107.52,
+     "projected": 102.33
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.8",
+     "points": 115.12,
+     "projected": 111.69
+    },
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 128.1,
+     "projected": 118.73
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 125.26,
+     "projected": 113.15
+    },
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 149.96,
+     "projected": 121.63
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 111.71,
+     "projected": 124.13
+    },
+    {
+     "team_key": "999.l.2018.t.6",
+     "points": 127.54,
+     "projected": 103.8
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.1",
+     "points": 79.51,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 143.55,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 122.88,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2018.t.3",
+     "points": 80.32,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 150.3,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 140.78,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 123.52,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 126.98,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.10",
+     "points": 81.76,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2018.t.4",
+     "points": 141.73,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2018.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2018.t.7",
+     "points": 103.76,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2018.t.9",
+     "points": 139.15,
+     "projected": null
+    }
+   ]
+  }
+ ],
+ "draft": [
+  {
+   "pick": 1,
+   "round": 1,
+   "cost": 16,
+   "team_key": "999.l.2018.t.2",
+   "player_key": "999.p.1",
+   "name": "Puka Nacua",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 2,
+   "round": 1,
+   "cost": 24,
+   "team_key": "999.l.2018.t.3",
+   "player_key": "999.p.2",
+   "name": "Saquon Barkley",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 3,
+   "round": 1,
+   "cost": 26,
+   "team_key": "999.l.2018.t.7",
+   "player_key": "999.p.3",
+   "name": "Amon-Ra St. Brown",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 4,
+   "round": 1,
+   "cost": 67,
+   "team_key": "999.l.2018.t.8",
+   "player_key": "999.p.4",
+   "name": "Bijan Robinson",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 5,
+   "round": 1,
+   "cost": 59,
+   "team_key": "999.l.2018.t.6",
+   "player_key": "999.p.5",
+   "name": "Josh Allen",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 6,
+   "round": 1,
+   "cost": 66,
+   "team_key": "999.l.2018.t.4",
+   "player_key": "999.p.6",
+   "name": "Lamar Jackson",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 7,
+   "round": 1,
+   "cost": 68,
+   "team_key": "999.l.2018.t.2",
+   "player_key": "999.p.7",
+   "name": "Justin Jefferson",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 8,
+   "round": 1,
+   "cost": 34,
+   "team_key": "999.l.2018.t.7",
+   "player_key": "999.p.8",
+   "name": "Brock Bowers",
+   "position": "TE",
+   "nfl_team": null
+  },
+  {
+   "pick": 9,
+   "round": 1,
+   "cost": 39,
+   "team_key": "999.l.2018.t.8",
+   "player_key": "999.p.9",
+   "name": "Ja'Marr Chase",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 10,
+   "round": 1,
+   "cost": 23,
+   "team_key": "999.l.2018.t.4",
+   "player_key": "999.p.10",
+   "name": "Jalen Hurts",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 11,
+   "round": 1,
+   "cost": 21,
+   "team_key": "999.l.2018.t.10",
+   "player_key": "999.p.11",
+   "name": "CeeDee Lamb",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 12,
+   "round": 1,
+   "cost": 43,
+   "team_key": "999.l.2018.t.1",
+   "player_key": "999.p.12",
+   "name": "Jahmyr Gibbs",
+   "position": "RB",
+   "nfl_team": null
+  }
+ ],
+ "transactions": [
+  {
+   "id": 7,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700604800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "CeeDee Lamb",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.4"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700518400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Brock Bowers",
+     "position": "TE",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.3"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700432000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jalen Hurts",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.4"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700345600,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jahmyr Gibbs",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.2"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700259200,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jalen Hurts",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.10"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700172800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jahmyr Gibbs",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.3"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700086400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Bijan Robinson",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.5"
+    }
+   ]
+  },
+  {
+   "id": 0,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700000000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Amon-Ra St. Brown",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2018.t.10"
+    }
+   ]
+  }
+ ],
+ "demo": true
+}

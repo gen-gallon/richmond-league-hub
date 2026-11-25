@@ -1,0 +1,2019 @@
+{
+ "league_key": "999.l.2010",
+ "league_id": "2010",
+ "name": "Bro Lovers (DEMO DATA)",
+ "season": 2010,
+ "num_teams": 10,
+ "start_week": 1,
+ "end_week": 17,
+ "current_week": 17,
+ "is_finished": true,
+ "draft_status": "postdraft",
+ "scoring_type": "head",
+ "renew": "999.l.2009",
+ "renewed": null,
+ "settings": {
+  "num_playoff_teams": 6,
+  "playoff_start_week": 15,
+  "uses_faab": true,
+  "is_auction_draft": true,
+  "draft_type": "live"
+ },
+ "standings": [
+  {
+   "team_key": "999.l.2010.t.10",
+   "team_id": 10,
+   "name": "Goose's Hogs",
+   "owner_id": "6a2b028818",
+   "owner_name": "Goose",
+   "logo": null,
+   "moves": 38,
+   "trades": 0,
+   "wins": 9,
+   "losses": 5,
+   "ties": 0,
+   "points_for": 1731.62,
+   "points_against": 1572.99,
+   "rank": 1,
+   "playoff_seed": 2,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.4",
+   "team_id": 4,
+   "name": "Sully's Bandits",
+   "owner_id": "8d020bfede",
+   "owner_name": "Sully",
+   "logo": null,
+   "moves": 13,
+   "trades": 0,
+   "wins": 12,
+   "losses": 2,
+   "ties": 0,
+   "points_for": 1580.39,
+   "points_against": 1305.71,
+   "rank": 2,
+   "playoff_seed": 1,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.7",
+   "team_id": 7,
+   "name": "Rocco's Hogs",
+   "owner_id": "6ae986ea43",
+   "owner_name": "Rocco",
+   "logo": null,
+   "moves": 15,
+   "trades": 1,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1606.4,
+   "points_against": 1628.93,
+   "rank": 3,
+   "playoff_seed": 4,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.6",
+   "team_id": 6,
+   "name": "Pags's Gridiron",
+   "owner_id": "b4a423a700",
+   "owner_name": "Pags",
+   "logo": null,
+   "moves": 11,
+   "trades": 3,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1533.5,
+   "points_against": 1465.85,
+   "rank": 4,
+   "playoff_seed": 6,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.2",
+   "team_id": 2,
+   "name": "Big Mike's Bandits",
+   "owner_id": "8028cd8aaf",
+   "owner_name": "Big Mike",
+   "logo": null,
+   "moves": 12,
+   "trades": 2,
+   "wins": 9,
+   "losses": 5,
+   "ties": 0,
+   "points_for": 1576.38,
+   "points_against": 1452.11,
+   "rank": 5,
+   "playoff_seed": 3,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.8",
+   "team_id": 8,
+   "name": "Fitz's Ballers",
+   "owner_id": "bd1f8efe3d",
+   "owner_name": "Fitz",
+   "logo": null,
+   "moves": 25,
+   "trades": 4,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1658.08,
+   "points_against": 1646.47,
+   "rank": 6,
+   "playoff_seed": 5,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.3",
+   "team_id": 3,
+   "name": "Dutch's Blitz",
+   "owner_id": "81ca83ae35",
+   "owner_name": "Dutch",
+   "logo": null,
+   "moves": 25,
+   "trades": 1,
+   "wins": 6,
+   "losses": 8,
+   "ties": 0,
+   "points_for": 1585.07,
+   "points_against": 1620.51,
+   "rank": 7,
+   "playoff_seed": 7,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.1",
+   "team_id": 1,
+   "name": "Commish's Bandits",
+   "owner_id": "b3a505ab90",
+   "owner_name": "Commish",
+   "logo": null,
+   "moves": 14,
+   "trades": 0,
+   "wins": 6,
+   "losses": 8,
+   "ties": 0,
+   "points_for": 1423.79,
+   "points_against": 1588.69,
+   "rank": 8,
+   "playoff_seed": 8,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.5",
+   "team_id": 5,
+   "name": "Tank's Kings",
+   "owner_id": "f10f7ccb16",
+   "owner_name": "Tank",
+   "logo": null,
+   "moves": 17,
+   "trades": 1,
+   "wins": 3,
+   "losses": 11,
+   "ties": 0,
+   "points_for": 1296.73,
+   "points_against": 1456.06,
+   "rank": 9,
+   "playoff_seed": 9,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2010.t.9",
+   "team_id": 9,
+   "name": "Murph's Blitz",
+   "owner_id": "fc991f86da",
+   "owner_name": "Murph",
+   "logo": null,
+   "moves": 40,
+   "trades": 4,
+   "wins": 3,
+   "losses": 11,
+   "ties": 0,
+   "points_for": 1214.19,
+   "points_against": 1468.83,
+   "rank": 10,
+   "playoff_seed": 10,
+   "streak": null
+  }
+ ],
+ "matchups": [
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 94.65,
+     "projected": 99.78
+    },
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 106.08,
+     "projected": 96.63
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 122.59,
+     "projected": 121.02
+    },
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 120.84,
+     "projected": 114.63
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 93.96,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 135.32,
+     "projected": 118.0
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 126.18,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 101.85,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 93.55,
+     "projected": 109.1
+    },
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 102.18,
+     "projected": 104.41
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 91.5,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 143.02,
+     "projected": 111.36
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 122.8,
+     "projected": 121.02
+    },
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 123.83,
+     "projected": 104.41
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 78.96,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 115.05,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 121.81,
+     "projected": 109.1
+    },
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 118.27,
+     "projected": 114.63
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 110.07,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 88.41,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 95.58,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 83.94,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 75.56,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 108.81,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 113.48,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 128.88,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 160.0,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 80.47,
+     "projected": 104.41
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 96.82,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 124.99,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 126.78,
+     "projected": 104.41
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 87.82,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 129.39,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 121.12,
+     "projected": 96.63
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 108.84,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 101.21,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 105.35,
+     "projected": 99.78
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 92.85,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 123.53,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 126.29,
+     "projected": 116.17
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 122.13,
+     "projected": 109.1
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 126.04,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 128.55,
+     "projected": 119.5
+    },
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 120.38,
+     "projected": 104.41
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 129.53,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 117.77,
+     "projected": 116.17
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 73.83,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 70.4,
+     "projected": 96.63
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 93.47,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 74.08,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 137.41,
+     "projected": 121.02
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 108.66,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 100.43,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 70.76,
+     "projected": 104.41
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 87.19,
+     "projected": 99.78
+    },
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 96.41,
+     "projected": 118.0
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 137.22,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 127.7,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 67.99,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 73.97,
+     "projected": 114.63
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 116.72,
+     "projected": 109.1
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 110.46,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 109.78,
+     "projected": 104.41
+    },
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 134.17,
+     "projected": 114.63
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 106.19,
+     "projected": 119.5
+    },
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 102.71,
+     "projected": 111.36
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 97.16,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 69.55,
+     "projected": 116.17
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 110.27,
+     "projected": 121.02
+    },
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 86.93,
+     "projected": 96.63
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 115.86,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 123.34,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 51.46,
+     "projected": 104.41
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 144.25,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 99.74,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 153.54,
+     "projected": 118.0
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 91.78,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 149.45,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 99.34,
+     "projected": 109.1
+    },
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 102.47,
+     "projected": 111.36
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 97.12,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 156.23,
+     "projected": 116.17
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 104.63,
+     "projected": 104.41
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 133.09,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 101.33,
+     "projected": 119.5
+    },
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 113.68,
+     "projected": 111.36
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 65.33,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 125.83,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 105.43,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 69.29,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 115.95,
+     "projected": 109.1
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 58.74,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 137.2,
+     "projected": 119.5
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 134.63,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 114.55,
+     "projected": 104.41
+    },
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 107.75,
+     "projected": 116.17
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 112.05,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 144.07,
+     "projected": 118.0
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 74.34,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 103.3,
+     "projected": 96.63
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 89.79,
+     "projected": 99.78
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 96.77,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 122.4,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 137.0,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 104.82,
+     "projected": 121.02
+    },
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 137.35,
+     "projected": 118.0
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 121.91,
+     "projected": 104.41
+    },
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 78.5,
+     "projected": 96.63
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 102.15,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 73.4,
+     "projected": 111.36
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 92.66,
+     "projected": 99.78
+    },
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 118.62,
+     "projected": 114.63
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 88.74,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 122.54,
+     "projected": 104.41
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 85.98,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 111.6,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 149.07,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 106.61,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 118.47,
+     "projected": 119.5
+    },
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 129.04,
+     "projected": 116.17
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 85.45,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 119.69,
+     "projected": 114.63
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 103.88,
+     "projected": 99.78
+    },
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 144.7,
+     "projected": 118.0
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 133.26,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 95.76,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 91.7,
+     "projected": 104.41
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 100.1,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 109.74,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 118.49,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 92.11,
+     "projected": 118.0
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 109.67,
+     "projected": 109.1
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.9",
+     "points": 94.05,
+     "projected": 96.63
+    },
+    {
+     "team_key": "999.l.2010.t.5",
+     "points": 49.1,
+     "projected": 99.78
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 108.94,
+     "projected": 111.36
+    },
+    {
+     "team_key": "999.l.2010.t.1",
+     "points": 82.82,
+     "projected": 104.41
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.3",
+     "points": 138.26,
+     "projected": 114.63
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 134.23,
+     "projected": 121.02
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 133.62,
+     "projected": 116.17
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 156.9,
+     "projected": 119.5
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.2",
+     "points": 93.86,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 131.97,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 109.93,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2010.t.8",
+     "points": 103.23,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 119.77,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 119.13,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 155.39,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 94.41,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.4",
+     "points": 86.15,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2010.t.10",
+     "points": 116.18,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2010.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2010.t.7",
+     "points": 142.97,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2010.t.6",
+     "points": 132.33,
+     "projected": null
+    }
+   ]
+  }
+ ],
+ "draft": [
+  {
+   "pick": 1,
+   "round": 1,
+   "cost": 15,
+   "team_key": "999.l.2010.t.1",
+   "player_key": "999.p.1",
+   "name": "Jahmyr Gibbs",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 2,
+   "round": 1,
+   "cost": 17,
+   "team_key": "999.l.2010.t.10",
+   "player_key": "999.p.2",
+   "name": "Puka Nacua",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 3,
+   "round": 1,
+   "cost": 70,
+   "team_key": "999.l.2010.t.7",
+   "player_key": "999.p.3",
+   "name": "Justin Jefferson",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 4,
+   "round": 1,
+   "cost": 53,
+   "team_key": "999.l.2010.t.8",
+   "player_key": "999.p.4",
+   "name": "CeeDee Lamb",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 5,
+   "round": 1,
+   "cost": 47,
+   "team_key": "999.l.2010.t.10",
+   "player_key": "999.p.5",
+   "name": "Bijan Robinson",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 6,
+   "round": 1,
+   "cost": 42,
+   "team_key": "999.l.2010.t.10",
+   "player_key": "999.p.6",
+   "name": "Saquon Barkley",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 7,
+   "round": 1,
+   "cost": 56,
+   "team_key": "999.l.2010.t.8",
+   "player_key": "999.p.7",
+   "name": "Josh Allen",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 8,
+   "round": 1,
+   "cost": 16,
+   "team_key": "999.l.2010.t.4",
+   "player_key": "999.p.8",
+   "name": "Lamar Jackson",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 9,
+   "round": 1,
+   "cost": 49,
+   "team_key": "999.l.2010.t.1",
+   "player_key": "999.p.9",
+   "name": "Ja'Marr Chase",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 10,
+   "round": 1,
+   "cost": 68,
+   "team_key": "999.l.2010.t.10",
+   "player_key": "999.p.10",
+   "name": "Amon-Ra St. Brown",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 11,
+   "round": 1,
+   "cost": 21,
+   "team_key": "999.l.2010.t.3",
+   "player_key": "999.p.11",
+   "name": "Jalen Hurts",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 12,
+   "round": 1,
+   "cost": 64,
+   "team_key": "999.l.2010.t.9",
+   "player_key": "999.p.12",
+   "name": "Brock Bowers",
+   "position": "TE",
+   "nfl_team": null
+  }
+ ],
+ "transactions": [
+  {
+   "id": 7,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700604800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "CeeDee Lamb",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.4"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700518400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Justin Jefferson",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.6"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700432000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Puka Nacua",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.3"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700345600,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Justin Jefferson",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.9"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700259200,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Lamar Jackson",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.8"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700172800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "CeeDee Lamb",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.7"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700086400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Brock Bowers",
+     "position": "TE",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.10"
+    }
+   ]
+  },
+  {
+   "id": 0,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700000000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Justin Jefferson",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2010.t.3"
+    }
+   ]
+  }
+ ],
+ "demo": true
+}

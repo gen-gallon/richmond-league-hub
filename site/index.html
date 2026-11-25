@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Richmond League Hub</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <p class="eyebrow" id="since">Est. 2007</p>
+    <h1 id="league-name">Richmond League Hub</h1>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="season" aria-selected="true">This Season</button>
+      <button role="tab" data-tab="history">All-Time</button>
+      <button role="tab" data-tab="h2h">Head-to-Head</button>
+      <button role="tab" data-tab="records">Records</button>
+      <button role="tab" data-tab="seasons">Past Seasons</button>
+    </nav>
+  </div>
+</header>
+<div id="demo-banner" class="banner" hidden>Demo data. Real league data will appear once Yahoo API access is approved.</div>
+<main class="wrap">
+  <section id="tab-season" class="tab"></section>
+  <section id="tab-history" class="tab" hidden></section>
+  <section id="tab-h2h" class="tab" hidden></section>
+  <section id="tab-records" class="tab" hidden></section>
+  <section id="tab-seasons" class="tab" hidden></section>
+  <p id="error" class="error" hidden></p>
+</main>
+<footer class="wrap footer">
+  <p>Fantasy data provided by Yahoo Fantasy. <span id="updated"></span></p>
+  <p class="muted">Unofficial, non-commercial site for league members. Not affiliated with Yahoo.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

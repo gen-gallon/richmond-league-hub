@@ -1,0 +1,2019 @@
+{
+ "league_key": "999.l.2013",
+ "league_id": "2013",
+ "name": "Bro Lovers (DEMO DATA)",
+ "season": 2013,
+ "num_teams": 10,
+ "start_week": 1,
+ "end_week": 17,
+ "current_week": 17,
+ "is_finished": true,
+ "draft_status": "postdraft",
+ "scoring_type": "head",
+ "renew": "999.l.2012",
+ "renewed": null,
+ "settings": {
+  "num_playoff_teams": 6,
+  "playoff_start_week": 15,
+  "uses_faab": true,
+  "is_auction_draft": true,
+  "draft_type": "live"
+ },
+ "standings": [
+  {
+   "team_key": "999.l.2013.t.7",
+   "team_id": 7,
+   "name": "Rocco's Sharks",
+   "owner_id": "6ae986ea43",
+   "owner_name": "Rocco",
+   "logo": null,
+   "moves": 7,
+   "trades": 1,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1737.66,
+   "points_against": 1657.55,
+   "rank": 1,
+   "playoff_seed": 2,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.10",
+   "team_id": 10,
+   "name": "Goose's Thunder",
+   "owner_id": "6a2b028818",
+   "owner_name": "Goose",
+   "logo": null,
+   "moves": 22,
+   "trades": 3,
+   "wins": 13,
+   "losses": 1,
+   "ties": 0,
+   "points_for": 1722.05,
+   "points_against": 1445.26,
+   "rank": 2,
+   "playoff_seed": 1,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.9",
+   "team_id": 9,
+   "name": "Murph's Ballers",
+   "owner_id": "fc991f86da",
+   "owner_name": "Murph",
+   "logo": null,
+   "moves": 8,
+   "trades": 2,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1566.08,
+   "points_against": 1529.33,
+   "rank": 3,
+   "playoff_seed": 4,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.4",
+   "team_id": 4,
+   "name": "Sully's Ballers",
+   "owner_id": "8d020bfede",
+   "owner_name": "Sully",
+   "logo": null,
+   "moves": 17,
+   "trades": 3,
+   "wins": 6,
+   "losses": 8,
+   "ties": 0,
+   "points_for": 1500.15,
+   "points_against": 1547.32,
+   "rank": 4,
+   "playoff_seed": 6,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.3",
+   "team_id": 3,
+   "name": "Dutch's Thunder",
+   "owner_id": "81ca83ae35",
+   "owner_name": "Dutch",
+   "logo": null,
+   "moves": 32,
+   "trades": 4,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1629.73,
+   "points_against": 1578.46,
+   "rank": 5,
+   "playoff_seed": 3,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.5",
+   "team_id": 5,
+   "name": "Tank's Mayhem",
+   "owner_id": "f10f7ccb16",
+   "owner_name": "Tank",
+   "logo": null,
+   "moves": 27,
+   "trades": 0,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1665.92,
+   "points_against": 1610.02,
+   "rank": 6,
+   "playoff_seed": 5,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.1",
+   "team_id": 1,
+   "name": "Commish's Bandits",
+   "owner_id": "b3a505ab90",
+   "owner_name": "Commish",
+   "logo": null,
+   "moves": 31,
+   "trades": 2,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1666.49,
+   "points_against": 1708.21,
+   "rank": 7,
+   "playoff_seed": 7,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.8",
+   "team_id": 8,
+   "name": "Fitz's Sharks",
+   "owner_id": "bd1f8efe3d",
+   "owner_name": "Fitz",
+   "logo": null,
+   "moves": 5,
+   "trades": 4,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1536.53,
+   "points_against": 1562.92,
+   "rank": 8,
+   "playoff_seed": 8,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.6",
+   "team_id": 6,
+   "name": "Pags's Thunder",
+   "owner_id": "b4a423a700",
+   "owner_name": "Pags",
+   "logo": null,
+   "moves": 28,
+   "trades": 2,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1535.01,
+   "points_against": 1676.64,
+   "rank": 9,
+   "playoff_seed": 9,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2013.t.2",
+   "team_id": 2,
+   "name": "Big Mike's Dynasty",
+   "owner_id": "8028cd8aaf",
+   "owner_name": "Big Mike",
+   "logo": null,
+   "moves": 11,
+   "trades": 0,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1395.52,
+   "points_against": 1639.43,
+   "rank": 10,
+   "playoff_seed": 10,
+   "streak": null
+  }
+ ],
+ "matchups": [
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 102.2,
+     "projected": 104.71
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 84.04,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 138.38,
+     "projected": 109.73
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 106.59,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 133.96,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 95.67,
+     "projected": 100.45
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 75.06,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 139.6,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 93.84,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 87.25,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 100.0,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 101.88,
+     "projected": 104.71
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 131.54,
+     "projected": 110.92
+    },
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 103.53,
+     "projected": 100.45
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 120.62,
+     "projected": 118.91
+    },
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 86.3,
+     "projected": 109.73
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 180.31,
+     "projected": 120.86
+    },
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 147.14,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 118.76,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 115.2,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 104.19,
+     "projected": 109.73
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 98.37,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 82.64,
+     "projected": 100.45
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 113.58,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 114.9,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 124.65,
+     "projected": 108.86
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 67.87,
+     "projected": 118.91
+    },
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 120.59,
+     "projected": 108.72
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 79.05,
+     "projected": 104.71
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 94.97,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 98.83,
+     "projected": 118.91
+    },
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 130.73,
+     "projected": 104.71
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 123.86,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 132.88,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 84.59,
+     "projected": 100.45
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 129.78,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 143.56,
+     "projected": 109.73
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 117.67,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 111.23,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 88.78,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 113.25,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 91.52,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 103.61,
+     "projected": 109.73
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 117.62,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 134.91,
+     "projected": 104.71
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 124.12,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 104.17,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 92.74,
+     "projected": 108.86
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 93.48,
+     "projected": 100.45
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 101.76,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 88.49,
+     "projected": 120.86
+    },
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 86.39,
+     "projected": 109.73
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 126.96,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 129.31,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 89.1,
+     "projected": 104.71
+    },
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 90.73,
+     "projected": 100.45
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 119.61,
+     "projected": 110.92
+    },
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 136.33,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 104.72,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 81.22,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 113.41,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 98.72,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 128.51,
+     "projected": 120.86
+    },
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 102.55,
+     "projected": 104.71
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 100.18,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 113.67,
+     "projected": 108.72
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 114.07,
+     "projected": 100.45
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 103.33,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 108.62,
+     "projected": 109.73
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 119.03,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 91.37,
+     "projected": 100.45
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 77.01,
+     "projected": 108.86
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 118.44,
+     "projected": 104.71
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 121.25,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 107.49,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 143.96,
+     "projected": 109.73
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 112.68,
+     "projected": 120.86
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 99.14,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 121.62,
+     "projected": 119.73
+    },
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 103.11,
+     "projected": 108.72
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 115.42,
+     "projected": 119.73
+    },
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 127.78,
+     "projected": 100.45
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 125.0,
+     "projected": 109.73
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 135.75,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 93.95,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 133.16,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 114.82,
+     "projected": 118.91
+    },
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 109.31,
+     "projected": 104.71
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 93.12,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 118.95,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 85.73,
+     "projected": 100.45
+    },
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 128.96,
+     "projected": 121.69
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 104.56,
+     "projected": 104.71
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 94.01,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 116.2,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 115.78,
+     "projected": 108.86
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 154.31,
+     "projected": 120.86
+    },
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 123.82,
+     "projected": 109.73
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 137.39,
+     "projected": 119.73
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 118.97,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 118.05,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 113.48,
+     "projected": 104.71
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 120.48,
+     "projected": 109.73
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 144.44,
+     "projected": 119.73
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 128.93,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 88.78,
+     "projected": 100.45
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 127.35,
+     "projected": 118.91
+    },
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 83.2,
+     "projected": 110.92
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 104.53,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 131.25,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 126.54,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 136.51,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 74.12,
+     "projected": 110.92
+    },
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 139.2,
+     "projected": 109.73
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 116.76,
+     "projected": 100.45
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 135.22,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 124.63,
+     "projected": 119.73
+    },
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 102.19,
+     "projected": 104.71
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 139.57,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 143.95,
+     "projected": 108.72
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 122.89,
+     "projected": 104.71
+    },
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 136.18,
+     "projected": 108.72
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 94.43,
+     "projected": 119.73
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 122.43,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 166.13,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 143.13,
+     "projected": 109.73
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 105.92,
+     "projected": 110.92
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 106.9,
+     "projected": 108.86
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 154.93,
+     "projected": 118.91
+    },
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 94.75,
+     "projected": 100.45
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 116.29,
+     "projected": 108.86
+    },
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 120.28,
+     "projected": 120.86
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 95.91,
+     "projected": 108.72
+    },
+    {
+     "team_key": "999.l.2013.t.2",
+     "points": 125.64,
+     "projected": 100.45
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 157.58,
+     "projected": 121.69
+    },
+    {
+     "team_key": "999.l.2013.t.1",
+     "points": 99.85,
+     "projected": 109.73
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 132.78,
+     "projected": 119.73
+    },
+    {
+     "team_key": "999.l.2013.t.8",
+     "points": 125.24,
+     "projected": 104.71
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.6",
+     "points": 118.86,
+     "projected": 110.92
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 116.06,
+     "projected": 118.91
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.3",
+     "points": 113.41,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 127.71,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 128.42,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2013.t.5",
+     "points": 125.46,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 168.88,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 118.9,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 93.31,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 86.44,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.10",
+     "points": 92.19,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2013.t.7",
+     "points": 123.74,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2013.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2013.t.9",
+     "points": 125.33,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2013.t.4",
+     "points": 89.84,
+     "projected": null
+    }
+   ]
+  }
+ ],
+ "draft": [
+  {
+   "pick": 1,
+   "round": 1,
+   "cost": 35,
+   "team_key": "999.l.2013.t.4",
+   "player_key": "999.p.1",
+   "name": "Ja'Marr Chase",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 2,
+   "round": 1,
+   "cost": 43,
+   "team_key": "999.l.2013.t.5",
+   "player_key": "999.p.2",
+   "name": "Justin Jefferson",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 3,
+   "round": 1,
+   "cost": 21,
+   "team_key": "999.l.2013.t.1",
+   "player_key": "999.p.3",
+   "name": "Amon-Ra St. Brown",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 4,
+   "round": 1,
+   "cost": 17,
+   "team_key": "999.l.2013.t.10",
+   "player_key": "999.p.4",
+   "name": "Bijan Robinson",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 5,
+   "round": 1,
+   "cost": 45,
+   "team_key": "999.l.2013.t.5",
+   "player_key": "999.p.5",
+   "name": "Josh Allen",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 6,
+   "round": 1,
+   "cost": 68,
+   "team_key": "999.l.2013.t.5",
+   "player_key": "999.p.6",
+   "name": "Puka Nacua",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 7,
+   "round": 1,
+   "cost": 53,
+   "team_key": "999.l.2013.t.6",
+   "player_key": "999.p.7",
+   "name": "Brock Bowers",
+   "position": "TE",
+   "nfl_team": null
+  },
+  {
+   "pick": 8,
+   "round": 1,
+   "cost": 17,
+   "team_key": "999.l.2013.t.8",
+   "player_key": "999.p.8",
+   "name": "Jalen Hurts",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 9,
+   "round": 1,
+   "cost": 35,
+   "team_key": "999.l.2013.t.7",
+   "player_key": "999.p.9",
+   "name": "Jahmyr Gibbs",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 10,
+   "round": 1,
+   "cost": 56,
+   "team_key": "999.l.2013.t.1",
+   "player_key": "999.p.10",
+   "name": "Saquon Barkley",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 11,
+   "round": 1,
+   "cost": 31,
+   "team_key": "999.l.2013.t.1",
+   "player_key": "999.p.11",
+   "name": "Lamar Jackson",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 12,
+   "round": 1,
+   "cost": 28,
+   "team_key": "999.l.2013.t.3",
+   "player_key": "999.p.12",
+   "name": "CeeDee Lamb",
+   "position": "WR",
+   "nfl_team": null
+  }
+ ],
+ "transactions": [
+  {
+   "id": 7,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700604800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Puka Nacua",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.7"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700518400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jalen Hurts",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.4"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700432000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "CeeDee Lamb",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.2"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700345600,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Amon-Ra St. Brown",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.5"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700259200,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Ja'Marr Chase",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.6"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700172800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Saquon Barkley",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.5"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700086400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Ja'Marr Chase",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.7"
+    }
+   ]
+  },
+  {
+   "id": 0,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700000000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Saquon Barkley",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2013.t.5"
+    }
+   ]
+  }
+ ],
+ "demo": true
+}

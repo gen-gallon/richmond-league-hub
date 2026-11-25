@@ -1,0 +1,2019 @@
+{
+ "league_key": "999.l.2015",
+ "league_id": "2015",
+ "name": "Bro Lovers (DEMO DATA)",
+ "season": 2015,
+ "num_teams": 10,
+ "start_week": 1,
+ "end_week": 17,
+ "current_week": 17,
+ "is_finished": true,
+ "draft_status": "postdraft",
+ "scoring_type": "head",
+ "renew": "999.l.2014",
+ "renewed": null,
+ "settings": {
+  "num_playoff_teams": 6,
+  "playoff_start_week": 15,
+  "uses_faab": true,
+  "is_auction_draft": true,
+  "draft_type": "live"
+ },
+ "standings": [
+  {
+   "team_key": "999.l.2015.t.2",
+   "team_id": 2,
+   "name": "Big Mike's Sharks",
+   "owner_id": "8028cd8aaf",
+   "owner_name": "Big Mike",
+   "logo": null,
+   "moves": 18,
+   "trades": 3,
+   "wins": 9,
+   "losses": 5,
+   "ties": 0,
+   "points_for": 1673.76,
+   "points_against": 1564.21,
+   "rank": 1,
+   "playoff_seed": 2,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.5",
+   "team_id": 5,
+   "name": "Tank's Hogs",
+   "owner_id": "f10f7ccb16",
+   "owner_name": "Tank",
+   "logo": null,
+   "moves": 17,
+   "trades": 4,
+   "wins": 11,
+   "losses": 3,
+   "ties": 0,
+   "points_for": 1823.39,
+   "points_against": 1544.14,
+   "rank": 2,
+   "playoff_seed": 1,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.9",
+   "team_id": 9,
+   "name": "Murph's Hogs",
+   "owner_id": "fc991f86da",
+   "owner_name": "Murph",
+   "logo": null,
+   "moves": 13,
+   "trades": 3,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1629.99,
+   "points_against": 1552.93,
+   "rank": 3,
+   "playoff_seed": 3,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.6",
+   "team_id": 6,
+   "name": "Pags's Bandits",
+   "owner_id": "b4a423a700",
+   "owner_name": "Pags",
+   "logo": null,
+   "moves": 39,
+   "trades": 4,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1726.4,
+   "points_against": 1589.28,
+   "rank": 4,
+   "playoff_seed": 5,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.4",
+   "team_id": 4,
+   "name": "Sully's Sharks",
+   "owner_id": "8d020bfede",
+   "owner_name": "Sully",
+   "logo": null,
+   "moves": 37,
+   "trades": 4,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1568.31,
+   "points_against": 1620.63,
+   "rank": 5,
+   "playoff_seed": 4,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.7",
+   "team_id": 7,
+   "name": "Rocco's Dynasty",
+   "owner_id": "6ae986ea43",
+   "owner_name": "Rocco",
+   "logo": null,
+   "moves": 38,
+   "trades": 0,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1437.84,
+   "points_against": 1520.53,
+   "rank": 6,
+   "playoff_seed": 6,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.8",
+   "team_id": 8,
+   "name": "Fitz's Hogs",
+   "owner_id": "bd1f8efe3d",
+   "owner_name": "Fitz",
+   "logo": null,
+   "moves": 9,
+   "trades": 0,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1429.66,
+   "points_against": 1482.11,
+   "rank": 7,
+   "playoff_seed": 7,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.3",
+   "team_id": 3,
+   "name": "Dutch's Thunder",
+   "owner_id": "81ca83ae35",
+   "owner_name": "Dutch",
+   "logo": null,
+   "moves": 21,
+   "trades": 3,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1396.16,
+   "points_against": 1560.12,
+   "rank": 8,
+   "playoff_seed": 8,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.10",
+   "team_id": 10,
+   "name": "Goose's Kings",
+   "owner_id": "6a2b028818",
+   "owner_name": "Goose",
+   "logo": null,
+   "moves": 15,
+   "trades": 1,
+   "wins": 4,
+   "losses": 10,
+   "ties": 0,
+   "points_for": 1527.32,
+   "points_against": 1660.53,
+   "rank": 9,
+   "playoff_seed": 9,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2015.t.1",
+   "team_id": 1,
+   "name": "Commish's Kings",
+   "owner_id": "b3a505ab90",
+   "owner_name": "Commish",
+   "logo": null,
+   "moves": 28,
+   "trades": 3,
+   "wins": 4,
+   "losses": 10,
+   "ties": 0,
+   "points_for": 1363.0,
+   "points_against": 1481.35,
+   "rank": 10,
+   "playoff_seed": 10,
+   "streak": null
+  }
+ ],
+ "matchups": [
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 111.08,
+     "projected": 123.68
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 88.82,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 66.46,
+     "projected": 102.9
+    },
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 111.84,
+     "projected": 103.59
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 89.45,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 170.14,
+     "projected": 119.64
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 121.23,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 128.7,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 72.86,
+     "projected": 106.21
+    },
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 135.43,
+     "projected": 97.84
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 122.53,
+     "projected": 106.21
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 133.99,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 122.63,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 121.23,
+     "projected": 97.84
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 108.96,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 97.61,
+     "projected": 119.64
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 140.17,
+     "projected": 102.9
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 95.61,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 117.73,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 120.15,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 72.01,
+     "projected": 119.64
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 91.2,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 149.18,
+     "projected": 106.21
+    },
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 120.86,
+     "projected": 102.99
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 62.82,
+     "projected": 97.84
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 120.36,
+     "projected": 120.6
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 81.12,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 104.67,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 92.91,
+     "projected": 102.9
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 85.08,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 52.49,
+     "projected": 97.84
+    },
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 87.01,
+     "projected": 106.21
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 109.03,
+     "projected": 122.63
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 108.9,
+     "projected": 120.6
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 98.38,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 79.62,
+     "projected": 103.59
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 114.6,
+     "projected": 102.37
+    },
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 97.01,
+     "projected": 102.9
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 125.56,
+     "projected": 123.68
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 156.53,
+     "projected": 119.64
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 139.4,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 173.06,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 93.58,
+     "projected": 102.37
+    },
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 98.96,
+     "projected": 102.9
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 165.51,
+     "projected": 97.84
+    },
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 56.57,
+     "projected": 102.99
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 113.8,
+     "projected": 106.21
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 118.96,
+     "projected": 120.6
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 124.05,
+     "projected": 119.64
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 128.84,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 141.03,
+     "projected": 122.63
+    },
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 79.74,
+     "projected": 97.84
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 119.86,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 119.29,
+     "projected": 119.64
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 121.24,
+     "projected": 102.9
+    },
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 126.19,
+     "projected": 102.99
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 85.6,
+     "projected": 102.37
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 113.19,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 139.62,
+     "projected": 106.21
+    },
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 115.5,
+     "projected": 103.59
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 132.05,
+     "projected": 97.84
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 126.54,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 72.98,
+     "projected": 102.37
+    },
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 115.81,
+     "projected": 102.99
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 148.89,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 122.09,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 115.93,
+     "projected": 119.64
+    },
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 69.77,
+     "projected": 106.21
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 82.95,
+     "projected": 102.9
+    },
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 45.33,
+     "projected": 103.59
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 94.72,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 127.34,
+     "projected": 106.21
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 130.68,
+     "projected": 119.64
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 126.44,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 114.5,
+     "projected": 122.63
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 124.99,
+     "projected": 120.6
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 127.98,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 67.74,
+     "projected": 97.84
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 118.48,
+     "projected": 123.68
+    },
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 96.51,
+     "projected": 102.9
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 157.57,
+     "projected": 123.68
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 133.93,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 111.18,
+     "projected": 102.37
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 109.6,
+     "projected": 119.64
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 140.4,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 99.53,
+     "projected": 106.21
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 135.87,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 76.55,
+     "projected": 102.9
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 86.61,
+     "projected": 97.84
+    },
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 133.31,
+     "projected": 102.99
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 105.93,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 83.68,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 95.57,
+     "projected": 97.84
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 95.3,
+     "projected": 120.6
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 126.89,
+     "projected": 119.64
+    },
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 124.71,
+     "projected": 106.21
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 104.46,
+     "projected": 122.63
+    },
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 92.01,
+     "projected": 102.9
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 113.23,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 136.97,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 96.75,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 167.81,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 95.86,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 103.71,
+     "projected": 103.59
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 105.19,
+     "projected": 119.64
+    },
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 127.4,
+     "projected": 97.84
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 100.34,
+     "projected": 102.9
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 120.32,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 120.81,
+     "projected": 106.21
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 124.95,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 101.46,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 87.17,
+     "projected": 97.84
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 92.25,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 151.84,
+     "projected": 123.68
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 78.18,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 135.58,
+     "projected": 119.64
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 100.51,
+     "projected": 102.37
+    },
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 97.54,
+     "projected": 102.9
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 133.68,
+     "projected": 122.63
+    },
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 85.47,
+     "projected": 106.21
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 120.97,
+     "projected": 123.68
+    },
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 83.17,
+     "projected": 97.84
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 113.99,
+     "projected": 119.64
+    },
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 188.5,
+     "projected": 102.99
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 114.03,
+     "projected": 103.59
+    },
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 105.54,
+     "projected": 102.9
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 135.29,
+     "projected": 120.6
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 125.18,
+     "projected": 122.63
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 116.27,
+     "projected": 106.21
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 127.19,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.3",
+     "points": 99.23,
+     "projected": 97.84
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 148.91,
+     "projected": 119.64
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 119.54,
+     "projected": 123.68
+    },
+    {
+     "team_key": "999.l.2015.t.10",
+     "points": 98.42,
+     "projected": 106.21
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.1",
+     "points": 94.81,
+     "projected": 102.9
+    },
+    {
+     "team_key": "999.l.2015.t.8",
+     "points": 115.45,
+     "projected": 103.59
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 82.36,
+     "projected": 122.63
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 108.03,
+     "projected": 102.37
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 87.29,
+     "projected": 102.99
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 79.87,
+     "projected": 120.6
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 110.67,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2015.t.7",
+     "points": 99.84,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.4",
+     "points": 92.28,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 134.2,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 133.55,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 90.96,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 130.5,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 120.04,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.5",
+     "points": 132.27,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2015.t.2",
+     "points": 133.21,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2015.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2015.t.6",
+     "points": 97.35,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2015.t.9",
+     "points": 150.53,
+     "projected": null
+    }
+   ]
+  }
+ ],
+ "draft": [
+  {
+   "pick": 1,
+   "round": 1,
+   "cost": 35,
+   "team_key": "999.l.2015.t.6",
+   "player_key": "999.p.1",
+   "name": "Brock Bowers",
+   "position": "TE",
+   "nfl_team": null
+  },
+  {
+   "pick": 2,
+   "round": 1,
+   "cost": 26,
+   "team_key": "999.l.2015.t.4",
+   "player_key": "999.p.2",
+   "name": "Amon-Ra St. Brown",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 3,
+   "round": 1,
+   "cost": 43,
+   "team_key": "999.l.2015.t.3",
+   "player_key": "999.p.3",
+   "name": "Bijan Robinson",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 4,
+   "round": 1,
+   "cost": 47,
+   "team_key": "999.l.2015.t.7",
+   "player_key": "999.p.4",
+   "name": "Ja'Marr Chase",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 5,
+   "round": 1,
+   "cost": 57,
+   "team_key": "999.l.2015.t.8",
+   "player_key": "999.p.5",
+   "name": "Jalen Hurts",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 6,
+   "round": 1,
+   "cost": 45,
+   "team_key": "999.l.2015.t.4",
+   "player_key": "999.p.6",
+   "name": "Lamar Jackson",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 7,
+   "round": 1,
+   "cost": 41,
+   "team_key": "999.l.2015.t.4",
+   "player_key": "999.p.7",
+   "name": "Josh Allen",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 8,
+   "round": 1,
+   "cost": 33,
+   "team_key": "999.l.2015.t.10",
+   "player_key": "999.p.8",
+   "name": "CeeDee Lamb",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 9,
+   "round": 1,
+   "cost": 25,
+   "team_key": "999.l.2015.t.5",
+   "player_key": "999.p.9",
+   "name": "Justin Jefferson",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 10,
+   "round": 1,
+   "cost": 16,
+   "team_key": "999.l.2015.t.7",
+   "player_key": "999.p.10",
+   "name": "Puka Nacua",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 11,
+   "round": 1,
+   "cost": 31,
+   "team_key": "999.l.2015.t.8",
+   "player_key": "999.p.11",
+   "name": "Jahmyr Gibbs",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 12,
+   "round": 1,
+   "cost": 32,
+   "team_key": "999.l.2015.t.2",
+   "player_key": "999.p.12",
+   "name": "Saquon Barkley",
+   "position": "RB",
+   "nfl_team": null
+  }
+ ],
+ "transactions": [
+  {
+   "id": 7,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700604800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "CeeDee Lamb",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.8"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700518400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Lamar Jackson",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.9"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700432000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Josh Allen",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.3"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700345600,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Ja'Marr Chase",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.5"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700259200,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jahmyr Gibbs",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.2"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700172800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jalen Hurts",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.8"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700086400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Puka Nacua",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.9"
+    }
+   ]
+  },
+  {
+   "id": 0,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700000000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Amon-Ra St. Brown",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2015.t.1"
+    }
+   ]
+  }
+ ],
+ "demo": true
+}

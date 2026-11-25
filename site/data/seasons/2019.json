@@ -1,0 +1,2019 @@
+{
+ "league_key": "999.l.2019",
+ "league_id": "2019",
+ "name": "Bro Lovers (DEMO DATA)",
+ "season": 2019,
+ "num_teams": 10,
+ "start_week": 1,
+ "end_week": 17,
+ "current_week": 17,
+ "is_finished": true,
+ "draft_status": "postdraft",
+ "scoring_type": "head",
+ "renew": "999.l.2018",
+ "renewed": null,
+ "settings": {
+  "num_playoff_teams": 6,
+  "playoff_start_week": 15,
+  "uses_faab": true,
+  "is_auction_draft": true,
+  "draft_type": "live"
+ },
+ "standings": [
+  {
+   "team_key": "999.l.2019.t.9",
+   "team_id": 9,
+   "name": "Murph's Sharks",
+   "owner_id": "fc991f86da",
+   "owner_name": "Murph",
+   "logo": null,
+   "moves": 40,
+   "trades": 4,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1581.5,
+   "points_against": 1502.74,
+   "rank": 1,
+   "playoff_seed": 3,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.4",
+   "team_id": 4,
+   "name": "Sully's Ballers",
+   "owner_id": "8d020bfede",
+   "owner_name": "Sully",
+   "logo": null,
+   "moves": 24,
+   "trades": 3,
+   "wins": 8,
+   "losses": 6,
+   "ties": 0,
+   "points_for": 1531.22,
+   "points_against": 1437.89,
+   "rank": 2,
+   "playoff_seed": 4,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.10",
+   "team_id": 10,
+   "name": "Goose's Sharks",
+   "owner_id": "6a2b028818",
+   "owner_name": "Goose",
+   "logo": null,
+   "moves": 40,
+   "trades": 3,
+   "wins": 11,
+   "losses": 3,
+   "ties": 0,
+   "points_for": 1755.46,
+   "points_against": 1501.14,
+   "rank": 3,
+   "playoff_seed": 1,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.7",
+   "team_id": 7,
+   "name": "Rocco's Kings",
+   "owner_id": "6ae986ea43",
+   "owner_name": "Rocco",
+   "logo": null,
+   "moves": 30,
+   "trades": 3,
+   "wins": 10,
+   "losses": 4,
+   "ties": 0,
+   "points_for": 1721.52,
+   "points_against": 1560.44,
+   "rank": 4,
+   "playoff_seed": 2,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.2",
+   "team_id": 2,
+   "name": "Big Mike's Kings",
+   "owner_id": "8028cd8aaf",
+   "owner_name": "Big Mike",
+   "logo": null,
+   "moves": 19,
+   "trades": 2,
+   "wins": 7,
+   "losses": 7,
+   "ties": 0,
+   "points_for": 1514.03,
+   "points_against": 1541.62,
+   "rank": 5,
+   "playoff_seed": 5,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.5",
+   "team_id": 5,
+   "name": "Tank's Gridiron",
+   "owner_id": "f10f7ccb16",
+   "owner_name": "Tank",
+   "logo": null,
+   "moves": 34,
+   "trades": 1,
+   "wins": 6,
+   "losses": 8,
+   "ties": 0,
+   "points_for": 1510.44,
+   "points_against": 1588.41,
+   "rank": 6,
+   "playoff_seed": 6,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.6",
+   "team_id": 6,
+   "name": "Pags's Mayhem",
+   "owner_id": "b4a423a700",
+   "owner_name": "Pags",
+   "logo": null,
+   "moves": 40,
+   "trades": 0,
+   "wins": 6,
+   "losses": 8,
+   "ties": 0,
+   "points_for": 1425.19,
+   "points_against": 1605.29,
+   "rank": 7,
+   "playoff_seed": 7,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.8",
+   "team_id": 8,
+   "name": "Fitz's Bandits",
+   "owner_id": "bd1f8efe3d",
+   "owner_name": "Fitz",
+   "logo": null,
+   "moves": 27,
+   "trades": 1,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1608.82,
+   "points_against": 1612.86,
+   "rank": 8,
+   "playoff_seed": 8,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.3",
+   "team_id": 3,
+   "name": "Dutch's Blitz",
+   "owner_id": "81ca83ae35",
+   "owner_name": "Dutch",
+   "logo": null,
+   "moves": 7,
+   "trades": 0,
+   "wins": 5,
+   "losses": 9,
+   "ties": 0,
+   "points_for": 1535.44,
+   "points_against": 1697.56,
+   "rank": 9,
+   "playoff_seed": 9,
+   "streak": null
+  },
+  {
+   "team_key": "999.l.2019.t.1",
+   "team_id": 1,
+   "name": "Commish's Gridiron",
+   "owner_id": "b3a505ab90",
+   "owner_name": "Commish",
+   "logo": null,
+   "moves": 39,
+   "trades": 3,
+   "wins": 4,
+   "losses": 10,
+   "ties": 0,
+   "points_for": 1383.86,
+   "points_against": 1519.53,
+   "rank": 10,
+   "playoff_seed": 10,
+   "streak": null
+  }
+ ],
+ "matchups": [
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 59.76,
+     "projected": 107.26
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 81.91,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 138.02,
+     "projected": 115.6
+    },
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 111.5,
+     "projected": 102.24
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 168.25,
+     "projected": 124.17
+    },
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 138.61,
+     "projected": 124.05
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 104.49,
+     "projected": 104.27
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 126.0,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 1,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 105.11,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 99.28,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 121.9,
+     "projected": 104.27
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 102.07,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 91.12,
+     "projected": 112.59
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 120.0,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 126.69,
+     "projected": 115.75
+    },
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 103.9,
+     "projected": 117.87
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 58.82,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 109.36,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 130.26,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 91.07,
+     "projected": 107.26
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 102.1,
+     "projected": 100.56
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 134.44,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 141.33,
+     "projected": 112.59
+    },
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 78.59,
+     "projected": 117.87
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 123.52,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 159.02,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 112.83,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 128.14,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 101.24,
+     "projected": 104.27
+    },
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 120.34,
+     "projected": 107.26
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 106.29,
+     "projected": 115.6
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 104.86,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 106.32,
+     "projected": 104.27
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 105.39,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 65.32,
+     "projected": 107.26
+    },
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 126.37,
+     "projected": 124.05
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 137.53,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 103.03,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 100.8,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 59.52,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 125.41,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 110.22,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 115.96,
+     "projected": 107.26
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 122.34,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 129.91,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 134.86,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 149.74,
+     "projected": 115.75
+    },
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 79.73,
+     "projected": 102.24
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 87.19,
+     "projected": 115.6
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 90.62,
+     "projected": 104.27
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 77.08,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 112.36,
+     "projected": 104.27
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 137.5,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 148.91,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 105.6,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 120.74,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 87.95,
+     "projected": 112.59
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 127.23,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 107.92,
+     "projected": 107.26
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 106.87,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 94.56,
+     "projected": 112.59
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 100.81,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 104.47,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 107.61,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 97.99,
+     "projected": 124.17
+    },
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 131.29,
+     "projected": 107.26
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 131.95,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 101.86,
+     "projected": 124.05
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 117.3,
+     "projected": 115.75
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 148.05,
+     "projected": 104.27
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 107.77,
+     "projected": 124.17
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 107.2,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 96.99,
+     "projected": 107.26
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 133.33,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 109.54,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 138.38,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.1",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 123.69,
+     "projected": 100.56
+    },
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 120.56,
+     "projected": 117.87
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 85.01,
+     "projected": 104.27
+    },
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 112.69,
+     "projected": 102.24
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 116.77,
+     "projected": 124.17
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 102.25,
+     "projected": 104.27
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 104.51,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 108.02,
+     "projected": 102.24
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 104.82,
+     "projected": 115.75
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 148.84,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 114.99,
+     "projected": 100.56
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 135.78,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 122.53,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 94.87,
+     "projected": 107.26
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 99.65,
+     "projected": 100.56
+    },
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 116.07,
+     "projected": 107.26
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 76.47,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 139.21,
+     "projected": 104.27
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 95.55,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 80.53,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 138.92,
+     "projected": 115.6
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 131.48,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 93.46,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 167.07,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 137.57,
+     "projected": 115.6
+    },
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 79.05,
+     "projected": 107.26
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 98.66,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 68.86,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.8",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 104.31,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 118.46,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 91.12,
+     "projected": 124.17
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 133.47,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 98.4,
+     "projected": 104.27
+    },
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 118.19,
+     "projected": 124.05
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 139.59,
+     "projected": 107.26
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 119.61,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 89.21,
+     "projected": 115.75
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 116.63,
+     "projected": 104.27
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 94.14,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 178.23,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 101.94,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 134.01,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 107.99,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 89.27,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 81.96,
+     "projected": 100.56
+    },
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 82.19,
+     "projected": 124.17
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 79.36,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 109.56,
+     "projected": 104.27
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.6",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 124.51,
+     "projected": 107.26
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 107.63,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.2",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 135.66,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 109.1,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 13,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 103.45,
+     "projected": 115.75
+    },
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 144.83,
+     "projected": 117.87
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 137.15,
+     "projected": 124.17
+    },
+    {
+     "team_key": "999.l.2019.t.8",
+     "points": 102.45,
+     "projected": 112.59
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.3",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.3",
+     "points": 99.54,
+     "projected": 124.05
+    },
+    {
+     "team_key": "999.l.2019.t.1",
+     "points": 79.92,
+     "projected": 100.56
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.7",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 95.18,
+     "projected": 104.27
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 109.83,
+     "projected": 115.6
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.5",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 117.99,
+     "projected": 117.87
+    },
+    {
+     "team_key": "999.l.2019.t.6",
+     "points": 82.45,
+     "projected": 107.26
+    }
+   ]
+  },
+  {
+   "week": 14,
+   "status": "postevent",
+   "is_playoffs": false,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 92.62,
+     "projected": 102.24
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 107.31,
+     "projected": 115.75
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 139.0,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2019.t.5",
+     "points": 114.6,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 15,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 104.68,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2019.t.2",
+     "points": 95.44,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.4",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 86.7,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 104.91,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 16,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 142.57,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 154.0,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.9",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.4",
+     "points": 90.8,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2019.t.9",
+     "points": 104.27,
+     "projected": null
+    }
+   ]
+  },
+  {
+   "week": 17,
+   "status": "postevent",
+   "is_playoffs": true,
+   "is_consolation": false,
+   "is_tied": false,
+   "winner_team_key": "999.l.2019.t.10",
+   "teams": [
+    {
+     "team_key": "999.l.2019.t.10",
+     "points": 128.91,
+     "projected": null
+    },
+    {
+     "team_key": "999.l.2019.t.7",
+     "points": 105.59,
+     "projected": null
+    }
+   ]
+  }
+ ],
+ "draft": [
+  {
+   "pick": 1,
+   "round": 1,
+   "cost": 51,
+   "team_key": "999.l.2019.t.1",
+   "player_key": "999.p.1",
+   "name": "Jahmyr Gibbs",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 2,
+   "round": 1,
+   "cost": 51,
+   "team_key": "999.l.2019.t.1",
+   "player_key": "999.p.2",
+   "name": "Puka Nacua",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 3,
+   "round": 1,
+   "cost": 57,
+   "team_key": "999.l.2019.t.6",
+   "player_key": "999.p.3",
+   "name": "Josh Allen",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 4,
+   "round": 1,
+   "cost": 56,
+   "team_key": "999.l.2019.t.1",
+   "player_key": "999.p.4",
+   "name": "CeeDee Lamb",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 5,
+   "round": 1,
+   "cost": 69,
+   "team_key": "999.l.2019.t.4",
+   "player_key": "999.p.5",
+   "name": "Brock Bowers",
+   "position": "TE",
+   "nfl_team": null
+  },
+  {
+   "pick": 6,
+   "round": 1,
+   "cost": 25,
+   "team_key": "999.l.2019.t.9",
+   "player_key": "999.p.6",
+   "name": "Amon-Ra St. Brown",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 7,
+   "round": 1,
+   "cost": 51,
+   "team_key": "999.l.2019.t.5",
+   "player_key": "999.p.7",
+   "name": "Bijan Robinson",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 8,
+   "round": 1,
+   "cost": 33,
+   "team_key": "999.l.2019.t.1",
+   "player_key": "999.p.8",
+   "name": "Justin Jefferson",
+   "position": "WR",
+   "nfl_team": null
+  },
+  {
+   "pick": 9,
+   "round": 1,
+   "cost": 44,
+   "team_key": "999.l.2019.t.2",
+   "player_key": "999.p.9",
+   "name": "Jalen Hurts",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 10,
+   "round": 1,
+   "cost": 22,
+   "team_key": "999.l.2019.t.10",
+   "player_key": "999.p.10",
+   "name": "Lamar Jackson",
+   "position": "QB",
+   "nfl_team": null
+  },
+  {
+   "pick": 11,
+   "round": 1,
+   "cost": 15,
+   "team_key": "999.l.2019.t.5",
+   "player_key": "999.p.11",
+   "name": "Saquon Barkley",
+   "position": "RB",
+   "nfl_team": null
+  },
+  {
+   "pick": 12,
+   "round": 1,
+   "cost": 29,
+   "team_key": "999.l.2019.t.1",
+   "player_key": "999.p.12",
+   "name": "Ja'Marr Chase",
+   "position": "WR",
+   "nfl_team": null
+  }
+ ],
+ "transactions": [
+  {
+   "id": 7,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700604800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Amon-Ra St. Brown",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.7"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700518400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "CeeDee Lamb",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.4"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700432000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Justin Jefferson",
+     "position": "WR",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.7"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700345600,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Lamar Jackson",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.7"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700259200,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Lamar Jackson",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.8"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700172800,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Bijan Robinson",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.8"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700086400,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Jalen Hurts",
+     "position": "QB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.5"
+    }
+   ]
+  },
+  {
+   "id": 0,
+   "type": "add",
+   "status": "successful",
+   "timestamp": 1700000000,
+   "faab_bid": null,
+   "trader_team_key": null,
+   "tradee_team_key": null,
+   "players": [
+    {
+     "name": "Bijan Robinson",
+     "position": "RB",
+     "nfl_team": null,
+     "action": "add",
+     "source_type": "freeagents",
+     "source_team_key": null,
+     "destination_type": "team",
+     "destination_team_key": "999.l.2019.t.9"
+    }
+   ]
+  }
+ ],
+ "demo": true
+}

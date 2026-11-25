@@ -1,13 +1,18 @@
 :root {
-  --bg: #f6f4ef;
+  --bg: #f4f2ee;          /* warm off-white */
   --paper: #ffffff;
-  --ink: #1b1f24;
-  --muted: #6b7280;
-  --line: #e4e0d6;
-  --accent: #1f4e3d;      /* field green */
-  --accent-2: #c8a24a;    /* trophy gold */
-  --win: #1f7a4d;
-  --loss: #b4413a;
+  --ink: #1d2731;
+  --muted: #64707d;
+  --line: #e2ddd5;
+  --accent: #2e4a62;      /* dusty navy blue */
+  --accent-2: #d4895a;    /* muted burnt orange */
+  --accent-2-light: #ebb48a; /* orange that reads on the navy */
+  --orange-soft: #f7e7d9;
+  --orange-ink: #8a4a1c;
+  --blue-soft: #e4ecf2;
+  --head: #f7f5f1;
+  --win: #2c6688;
+  --loss: #b4562a;
   --radius: 10px;
   font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
@@ -15,15 +20,15 @@
 body { margin: 0; background: var(--bg); color: var(--ink); font-size: 15px; line-height: 1.45; }
 .wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
 .masthead { background: var(--accent); color: #fff; padding: 28px 0 0; }
-.eyebrow { margin: 0; text-transform: uppercase; letter-spacing: .14em; font-size: 12px; color: var(--accent-2); font-weight: 700; }
+.eyebrow { margin: 0; text-transform: uppercase; letter-spacing: .14em; font-size: 12px; color: var(--accent-2-light); font-weight: 700; }
 h1 { margin: 4px 0 18px; font-size: clamp(26px, 5vw, 40px); letter-spacing: -.01em; }
 .tabs { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; }
 .tabs button {
-  background: transparent; color: rgba(255,255,255,.75); border: 0; padding: 12px 14px; font: inherit; font-weight: 600;
+  background: transparent; color: #d9e2ea; border: 0; padding: 12px 14px; font: inherit; font-weight: 600;
   border-bottom: 3px solid transparent; cursor: pointer; white-space: nowrap;
 }
-.tabs button[aria-selected="true"] { color: #fff; border-bottom-color: var(--accent-2); }
-.banner { background: #fff4d6; color: #6b4e00; text-align: center; padding: 8px 16px; font-size: 14px; font-weight: 600; }
+.tabs button[aria-selected="true"] { color: #fff; border-bottom-color: var(--accent-2-light); }
+.banner { background: var(--orange-soft); color: #7a3f14; text-align: center; padding: 8px 16px; font-size: 14px; font-weight: 600; }
 main { padding: 24px 16px 8px; }
 h2 { font-size: 20px; margin: 28px 0 10px; }
 h2:first-child { margin-top: 0; }
@@ -31,14 +36,14 @@ h2:first-child { margin-top: 0; }
 .scroll { overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
 th, td { padding: 9px 10px; text-align: left; border-bottom: 1px solid var(--line); white-space: nowrap; }
-th { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); background: #faf9f6; }
+th { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); background: var(--head); }
 td.num, th.num { text-align: right; }
 tr:last-child td { border-bottom: 0; }
 .team { font-weight: 600; }
 .owner { color: var(--muted); font-size: 13px; }
 .muted { color: var(--muted); }
-.pill { display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 99px; background: #eef2ef; color: var(--accent); }
-.gold { background: #f7edd2; color: #7a5a00; }
+.pill { display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 99px; background: var(--blue-soft); color: var(--accent); }
+.gold { background: var(--orange-soft); color: var(--orange-ink); }
 .W { color: var(--win); font-weight: 700; } .L { color: var(--loss); font-weight: 700; }
 .grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
 .matchup { padding: 12px 14px; }
@@ -52,8 +57,8 @@ select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid
 .champ { padding: 12px 14px; border-left: 4px solid var(--accent-2); }
 .champ .yr { font-weight: 800; font-size: 18px; }
 .h2h td { text-align: center; font-size: 13px; }
-.h2h td.self { background: #f1efe9; }
-.h2h th.rowh { text-align: left; position: sticky; left: 0; background: #faf9f6; }
+.h2h td.self { background: #eeeae3; }
+.h2h th.rowh { text-align: left; position: sticky; left: 0; background: var(--head); }
 .footer { padding: 24px 16px 40px; font-size: 13px; }
 .footer p { margin: 4px 0; }
 .error { color: var(--loss); }
